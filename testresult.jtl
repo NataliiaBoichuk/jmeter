@@ -1,0 +1,737 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1632128389645,1321,/-1,200,OK,Thread Group 1-1,text,true,,828920,52322,1,1,http://prestashop.qatestlab.com.ua/ru/,180,0,101
+1632128389645,181,/-1-0,302,Moved,Thread Group 1-1,text,true,,272,369,1,1,http://prestashop.qatestlab.com.ua/,180,0,101
+1632128389827,133,/-1-1,200,OK,Thread Group 1-1,text,true,,11384,372,1,1,http://prestashop.qatestlab.com.ua/ru/,130,0,0
+1632128390053,72,/-1-2,200,OK,Thread Group 1-1,bin,true,,3320,633,1,1,http://prestashop.qatestlab.com.ua/img/favicon.ico?1428399122,71,0,36
+1632128390053,91,/-1-3,200,OK,Thread Group 1-1,text,true,,33915,646,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/global.css,41,0,0
+1632128390056,69,/-1-4,200,OK,Thread Group 1-1,text,true,,535,656,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/autoload/highdpi.css,68,0,33
+1632128390054,91,/-1-5,200,OK,Thread Group 1-1,text,true,,901,666,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/autoload/responsive-tables.css,90,0,36
+1632128390054,77,/-1-6,200,OK,Thread Group 1-1,text,true,,2682,664,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/autoload/uniform.default.css,77,0,35
+1632128390055,69,/-1-7,200,OK,Thread Group 1-1,text,true,,1777,653,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/fancybox/jquery.fancybox.css,69,0,33
+1632128390141,39,/-1-8,200,OK,Thread Group 1-1,text,true,,469,671,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockbanner/blockbanner.css,39,0,0
+1632128390282,48,/-1-9,200,OK,Thread Group 1-1,text,true,,2861,652,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/product_list.css,48,0,0
+1632128390350,43,/-1-10,200,OK,Thread Group 1-1,text,true,,3124,667,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockcart/blockcart.css,43,0,0
+1632128390351,44,/-1-11,200,OK,Thread Group 1-1,text,true,,1103,679,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockcategories/blockcategories.css,43,0,0
+1632128390366,42,/-1-12,200,OK,Thread Group 1-1,text,true,,942,679,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockcurrencies/blockcurrencies.css,42,0,0
+1632128390377,46,/-1-13,200,OK,Thread Group 1-1,text,true,,340,650,1,1,http://prestashop.qatestlab.com.ua/modules/blockfacebook/css/blockfacebook.css,46,0,0
+1632128390411,38,/-1-14,200,OK,Thread Group 1-1,text,true,,923,677,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocklanguages/blocklanguages.css,38,0,0
+1632128390411,40,/-1-15,200,OK,Thread Group 1-1,text,true,,867,673,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockcontact/blockcontact.css,40,0,0
+1632128390411,38,/-1-16,200,OK,Thread Group 1-1,text,true,,1164,679,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocknewsletter/blocknewsletter.css,38,0,0
+1632128390426,43,/-1-17,200,OK,Thread Group 1-1,text,true,,804,661,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/autocomplete/jquery.autocomplete.css,43,0,0
+1632128390424,45,/-1-18,200,OK,Thread Group 1-1,text,true,,914,671,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocksearch/blocksearch.css,45,0,0
+1632128390453,47,/-1-19,200,OK,Thread Group 1-1,text,true,,573,667,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocktags/blocktags.css,47,0,0
+1632128390454,46,/-1-20,200,OK,Thread Group 1-1,text,true,,599,675,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockuserinfo/blockuserinfo.css,46,0,0
+1632128390454,47,/-1-21,200,OK,Thread Group 1-1,text,true,,477,671,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockviewed/blockviewed.css,47,0,0
+1632128390471,35,/-1-22,200,OK,Thread Group 1-1,text,true,,1665,669,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/homeslider/homeslider.css,35,0,0
+1632128390472,43,/-1-23,200,OK,Thread Group 1-1,text,true,,735,646,1,1,http://prestashop.qatestlab.com.ua/modules/themeconfigurator/css/hooks.css,42,0,0
+1632128390502,43,/-1-24,200,OK,Thread Group 1-1,text,true,,1456,675,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockwishlist/blockwishlist.css,40,0,0
+1632128390502,41,/-1-25,200,OK,Thread Group 1-1,text,true,,1889,679,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/productcomments/productcomments.css,41,0,0
+1632128390502,41,/-1-26,200,OK,Thread Group 1-1,text,true,,339,677,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocktopmenu/css/blocktopmenu.css,40,0,0
+1632128390513,41,/-1-27,200,OK,Thread Group 1-1,text,true,,1736,683,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocktopmenu/css/superfish-modified.css,41,0,0
+1632128390517,36,/-1-28,200,OK,Thread Group 1-1,text,true,,1768,645,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/cusel.css,36,0,0
+1632128390551,80,/-1-29,200,OK,Thread Group 1-1,text,true,,32436,654,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/jquery-1.6.2.min.js,40,0,0
+1632128390551,82,/-1-30,200,OK,Thread Group 1-1,text,true,,33751,637,1,1,http://prestashop.qatestlab.com.ua/js/jquery/jquery-1.11.0.min.js,41,0,0
+1632128390552,36,/-1-31,200,OK,Thread Group 1-1,text,true,,3431,644,1,1,http://prestashop.qatestlab.com.ua/js/jquery/jquery-migrate-1.2.1.min.js,36,0,0
+1632128390560,35,/-1-32,200,OK,Thread Group 1-1,text,true,,1530,641,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/jquery.easing.js,35,0,0
+1632128390570,38,/-1-33,200,OK,Thread Group 1-1,text,true,,5883,618,1,1,http://prestashop.qatestlab.com.ua/js/tools.js,37,0,0
+1632128390570,38,/-1-34,200,OK,Thread Group 1-1,text,true,,4315,644,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/global.js,37,0,0
+1632128390589,41,/-1-35,200,OK,Thread Group 1-1,text,true,,7594,663,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/autoload/10-bootstrap.min.js,41,0,0
+1632128390596,37,/-1-36,200,OK,Thread Group 1-1,text,true,,1400,674,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/autoload/15-jquery.total-storage.min.js,37,0,0
+1632128390609,42,/-1-37,200,OK,Thread Group 1-1,text,true,,8236,673,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/autoload/15-jquery.uniform-modified.js,42,0,0
+1632128390609,42,/-1-38,200,OK,Thread Group 1-1,text,true,,9002,652,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/fancybox/jquery.fancybox.js,37,0,0
+1632128390631,39,/-1-39,200,OK,Thread Group 1-1,text,true,,2016,657,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/products-comparison.js,39,0,0
+1632128390632,38,/-1-40,200,OK,Thread Group 1-1,text,true,,8025,665,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blockcart/ajax-cart.js,37,0,0
+1632128390633,38,/-1-41,200,OK,Thread Group 1-1,text,true,,1675,643,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/jquery.scrollTo.js,38,0,0
+1632128390633,36,/-1-42,200,OK,Thread Group 1-1,text,true,,1412,647,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/jquery.serialScroll.js,36,0,0
+1632128390651,37,/-1-43,200,OK,Thread Group 1-1,text,true,,5492,652,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/bxslider/jquery.bxslider.js,36,0,0
+1632128390651,36,/-1-44,200,OK,Thread Group 1-1,text,true,,1495,658,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/tools/treeManagement.js,36,0,0
+1632128390672,52,/-1-45,200,OK,Thread Group 1-1,text,true,,1107,645,1,1,http://prestashop.qatestlab.com.ua/modules/blockfacebook/blockfacebook.js,52,0,0
+1632128390672,39,/-1-46,200,OK,Thread Group 1-1,text,true,,1206,677,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blocknewsletter/blocknewsletter.js,39,0,0
+1632128390673,38,/-1-47,200,OK,Thread Group 1-1,text,true,,6828,660,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/autocomplete/jquery.autocomplete.js,37,0,0
+1632128390673,36,/-1-48,200,OK,Thread Group 1-1,text,true,,1868,669,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blocksearch/blocksearch.js,36,0,0
+1632128390689,36,/-1-49,200,OK,Thread Group 1-1,text,true,,1272,670,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/homeslider/js/homeslider.js,36,0,0
+1632128390689,39,/-1-50,200,OK,Thread Group 1-1,text,true,,2904,676,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blockwishlist/js/ajax-wishlist.js,38,0,0
+1632128390714,39,/-1-51,200,OK,Thread Group 1-1,text,true,,1981,673,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blocktopmenu/js/hoverIntent.js,39,0,0
+1632128390717,38,/-1-52,200,OK,Thread Group 1-1,text,true,,2661,680,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blocktopmenu/js/superfish-modified.js,38,0,0
+1632128390719,36,/-1-53,200,OK,Thread Group 1-1,text,true,,1860,674,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blocktopmenu/js/blocktopmenu.js,36,0,0
+1632128390726,38,/-1-54,200,OK,Thread Group 1-1,text,true,,966,643,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/index.js,38,0,0
+1632128390727,44,/-1-55,200,OK,Thread Group 1-1,text,true,,4750,643,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/cusel.js,43,0,0
+1632128390730,44,/-1-56,200,OK,Thread Group 1-1,text,true,,4593,649,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/jScrollPane.js,43,0,0
+1632128390755,38,/-1-57,200,OK,Thread Group 1-1,text,true,,1337,655,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/jquery.mousewheel.js,37,0,0
+1632128390761,84,/-1-58,200,OK,Thread Group 1-1,text,true,,1079,413,1,1,"http://fonts.googleapis.com/css?family=Open+Sans:300,600&subset=latin,latin-ext",84,0,36
+1632128390757,36,/-1-59,200,OK,Thread Group 1-1,bin,true,,13516,641,1,1,http://prestashop.qatestlab.com.ua/modules/blockbanner/img/sale70.png,35,0,0
+1632128390768,39,/-1-60,200,OK,Thread Group 1-1,bin,true,,11871,619,1,1,http://prestashop.qatestlab.com.ua/img/logo.jpg,36,0,0
+1632128390773,43,/-1-61,200,OK,Thread Group 1-1,bin,true,,13599,626,1,1,http://prestashop.qatestlab.com.ua/img/c/3-0_thumb.jpg,41,0,0
+1632128390777,37,/-1-62,200,OK,Thread Group 1-1,bin,true,,10477,626,1,1,http://prestashop.qatestlab.com.ua/img/c/3-1_thumb.jpg,37,0,0
+1632128390795,74,/-1-63,200,OK,Thread Group 1-1,bin,true,,75800,645,1,1,http://prestashop.qatestlab.com.ua/modules/homeslider/images/sample-1.jpg,37,0,0
+1632128390795,109,/-1-64,200,OK,Thread Group 1-1,bin,true,,103791,645,1,1,http://prestashop.qatestlab.com.ua/modules/homeslider/images/sample-2.jpg,40,0,0
+1632128390809,75,/-1-65,200,OK,Thread Group 1-1,bin,true,,59549,645,1,1,http://prestashop.qatestlab.com.ua/modules/homeslider/images/sample-3.jpg,35,0,0
+1632128390816,41,/-1-66,200,OK,Thread Group 1-1,bin,true,,29558,652,1,1,http://prestashop.qatestlab.com.ua/modules/themeconfigurator/img/banner-img6.jpg,39,0,0
+1632128390817,38,/-1-67,200,OK,Thread Group 1-1,bin,true,,27021,652,1,1,http://prestashop.qatestlab.com.ua/modules/themeconfigurator/img/banner-img7.jpg,36,0,0
+1632128390848,39,/-1-68,200,OK,Thread Group 1-1,bin,true,,6369,652,1,1,http://prestashop.qatestlab.com.ua/1-home_default/faded-short-sleeve-tshirts.jpg,39,0,0
+1632128390855,35,/-1-69,200,OK,Thread Group 1-1,bin,true,,7758,632,1,1,http://prestashop.qatestlab.com.ua/7-home_default/blouse.jpg,35,0,0
+1632128390858,36,/-1-70,200,OK,Thread Group 1-1,bin,true,,6932,639,1,1,http://prestashop.qatestlab.com.ua/8-home_default/printed-dress.jpg,36,0,0
+1632128390870,35,/-1-71,200,OK,Thread Group 1-1,bin,true,,11685,640,1,1,http://prestashop.qatestlab.com.ua/10-home_default/printed-dress.jpg,35,0,0
+1632128390884,36,/-1-72,200,OK,Thread Group 1-1,bin,true,,8682,647,1,1,http://prestashop.qatestlab.com.ua/12-home_default/printed-summer-dress.jpg,35,0,0
+1632128390888,37,/-1-73,200,OK,Thread Group 1-1,bin,true,,8317,647,1,1,http://prestashop.qatestlab.com.ua/16-home_default/printed-summer-dress.jpg,37,0,0
+1632128390891,35,/-1-74,200,OK,Thread Group 1-1,bin,true,,8299,648,1,1,http://prestashop.qatestlab.com.ua/20-home_default/printed-chiffon-dress.jpg,35,0,0
+1632128390895,39,/-1-75,200,OK,Thread Group 1-1,bin,true,,14610,652,1,1,http://prestashop.qatestlab.com.ua/24-home_default/black-blouse-with-flowers.jpg,38,0,0
+1632128390905,45,/-1-76,200,OK,Thread Group 1-1,bin,true,,45698,652,1,1,http://prestashop.qatestlab.com.ua/modules/themeconfigurator/img/banner-img1.jpg,36,0,0
+1632128390906,38,/-1-77,200,OK,Thread Group 1-1,bin,true,,31945,652,1,1,http://prestashop.qatestlab.com.ua/modules/themeconfigurator/img/banner-img2.jpg,35,0,0
+1632128390920,38,/-1-78,200,OK,Thread Group 1-1,bin,true,,37333,652,1,1,http://prestashop.qatestlab.com.ua/modules/themeconfigurator/img/banner-img3.jpg,35,0,0
+1632128390926,40,/-1-79,200,OK,Thread Group 1-1,bin,true,,19085,652,1,1,http://prestashop.qatestlab.com.ua/modules/themeconfigurator/img/banner-img4.jpg,39,0,0
+1632128390927,37,/-1-80,200,OK,Thread Group 1-1,bin,true,,35386,652,1,1,http://prestashop.qatestlab.com.ua/modules/themeconfigurator/img/banner-img5.jpg,35,0,0
+1632128390970,476,/x/oauth/status-82,200,OK,Thread Group 1-1,text,true,,1857,580,1,1,https://www.facebook.com/x/oauth/status?client_id=334341610034299&input_token&origin=1&redirect_uri=http%3A%2F%2Fprestashop.qatestlab.com.ua%2Fru%2F&sdk=joey&wants_cookie_data=false,476,0,406
+1632128389574,1797,main_page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,830777,52902,1,1,null,656,76,507
+1632128391447,587,/ru/my-account-83,200,OK,Thread Group 1-1,text,true,,246960,49475,1,1,http://prestashop.qatestlab.com.ua/ru/authentication?back=my-account,73,0,0
+1632128391447,73,/ru/my-account-83-0,302,Found,Thread Group 1-1,text,true,,302,669,1,1,http://prestashop.qatestlab.com.ua/ru/my-account,73,0,0
+1632128391520,97,/ru/my-account-83-1,200,OK,Thread Group 1-1,text,true,,9224,689,1,1,http://prestashop.qatestlab.com.ua/ru/authentication?back=my-account,96,0,0
+1632128391626,38,/ru/my-account-83-2,304,Not Modified,Thread Group 1-1,,true,,197,768,1,1,http://prestashop.qatestlab.com.ua/img/favicon.ico?1428399122,0,0,0
+1632128391626,79,/ru/my-account-83-3,200,OK,Thread Group 1-1,text,true,,33915,788,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/global.css,42,0,0
+1632128391627,35,/ru/my-account-83-4,200,OK,Thread Group 1-1,text,true,,535,796,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/autoload/highdpi.css,35,0,0
+1632128391627,37,/ru/my-account-83-5,200,OK,Thread Group 1-1,text,true,,901,806,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/autoload/responsive-tables.css,37,0,0
+1632128391628,36,/ru/my-account-83-6,200,OK,Thread Group 1-1,text,true,,2682,805,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/autoload/uniform.default.css,36,0,0
+1632128391628,40,/ru/my-account-83-7,200,OK,Thread Group 1-1,text,true,,1777,794,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/fancybox/jquery.fancybox.css,40,0,0
+1632128391663,35,/ru/my-account-83-8,200,OK,Thread Group 1-1,text,true,,644,703,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/authentication.css,35,0,0
+1632128391664,41,/ru/my-account-83-9,200,OK,Thread Group 1-1,text,true,,469,810,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockbanner/blockbanner.css,40,0,0
+1632128391664,41,/ru/my-account-83-10,200,OK,Thread Group 1-1,text,true,,3124,808,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockcart/blockcart.css,40,0,0
+1632128391665,40,/ru/my-account-83-11,200,OK,Thread Group 1-1,text,true,,1103,819,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockcategories/blockcategories.css,40,0,0
+1632128391668,40,/ru/my-account-83-12,200,OK,Thread Group 1-1,text,true,,942,819,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockcurrencies/blockcurrencies.css,40,0,0
+1632128391699,41,/ru/my-account-83-13,200,OK,Thread Group 1-1,text,true,,923,817,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocklanguages/blocklanguages.css,41,0,0
+1632128391705,38,/ru/my-account-83-14,200,OK,Thread Group 1-1,text,true,,867,813,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockcontact/blockcontact.css,38,0,0
+1632128391705,35,/ru/my-account-83-15,200,OK,Thread Group 1-1,text,true,,1164,819,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocknewsletter/blocknewsletter.css,35,0,0
+1632128391706,36,/ru/my-account-83-16,200,OK,Thread Group 1-1,text,true,,804,801,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/autocomplete/jquery.autocomplete.css,36,0,0
+1632128391706,37,/ru/my-account-83-17,200,OK,Thread Group 1-1,text,true,,2861,793,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/product_list.css,37,0,0
+1632128391708,41,/ru/my-account-83-18,200,OK,Thread Group 1-1,text,true,,914,811,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocksearch/blocksearch.css,41,0,0
+1632128391741,35,/ru/my-account-83-19,200,OK,Thread Group 1-1,text,true,,573,807,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocktags/blocktags.css,35,0,0
+1632128391741,35,/ru/my-account-83-20,200,OK,Thread Group 1-1,text,true,,599,815,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockuserinfo/blockuserinfo.css,35,0,0
+1632128391742,35,/ru/my-account-83-21,200,OK,Thread Group 1-1,text,true,,477,810,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockviewed/blockviewed.css,35,0,0
+1632128391746,37,/ru/my-account-83-22,200,OK,Thread Group 1-1,text,true,,735,786,1,1,http://prestashop.qatestlab.com.ua/modules/themeconfigurator/css/hooks.css,37,0,0
+1632128391747,38,/ru/my-account-83-23,200,OK,Thread Group 1-1,text,true,,1456,816,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockwishlist/blockwishlist.css,38,0,0
+1632128391750,37,/ru/my-account-83-24,200,OK,Thread Group 1-1,text,true,,1889,820,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/productcomments/productcomments.css,37,0,0
+1632128391777,34,/ru/my-account-83-25,304,Not Modified,Thread Group 1-1,,true,,196,811,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocktopmenu/css/blocktopmenu.css,0,0,0
+1632128391776,36,/ru/my-account-83-26,200,OK,Thread Group 1-1,text,true,,1736,824,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocktopmenu/css/superfish-modified.css,36,0,0
+1632128391778,35,/ru/my-account-83-27,200,OK,Thread Group 1-1,text,true,,1768,785,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/cusel.css,35,0,0
+1632128391784,41,/ru/my-account-83-28,200,OK,Thread Group 1-1,text,true,,32436,796,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/jquery-1.6.2.min.js,38,0,0
+1632128391786,81,/ru/my-account-83-29,200,OK,Thread Group 1-1,text,true,,33751,779,1,1,http://prestashop.qatestlab.com.ua/js/jquery/jquery-1.11.0.min.js,40,0,0
+1632128391787,39,/ru/my-account-83-30,200,OK,Thread Group 1-1,text,true,,3431,785,1,1,http://prestashop.qatestlab.com.ua/js/jquery/jquery-migrate-1.2.1.min.js,38,0,0
+1632128391812,36,/ru/my-account-83-31,200,OK,Thread Group 1-1,text,true,,1530,782,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/jquery.easing.js,36,0,0
+1632128391812,37,/ru/my-account-83-32,200,OK,Thread Group 1-1,text,true,,5883,759,1,1,http://prestashop.qatestlab.com.ua/js/tools.js,37,0,0
+1632128391814,39,/ru/my-account-83-33,200,OK,Thread Group 1-1,text,true,,4315,785,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/global.js,35,0,0
+1632128391825,39,/ru/my-account-83-34,200,OK,Thread Group 1-1,text,true,,7594,804,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/autoload/10-bootstrap.min.js,37,0,0
+1632128391826,38,/ru/my-account-83-35,200,OK,Thread Group 1-1,text,true,,1400,814,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/autoload/15-jquery.total-storage.min.js,38,0,0
+1632128391849,36,/ru/my-account-83-36,200,OK,Thread Group 1-1,text,true,,8236,814,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/autoload/15-jquery.uniform-modified.js,36,0,0
+1632128391850,37,/ru/my-account-83-37,200,OK,Thread Group 1-1,text,true,,9002,793,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/fancybox/jquery.fancybox.js,35,0,0
+1632128391853,36,/ru/my-account-83-38,200,OK,Thread Group 1-1,text,true,,2016,798,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/products-comparison.js,35,0,0
+1632128391864,37,/ru/my-account-83-39,200,OK,Thread Group 1-1,text,true,,1360,693,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/jquery.typewatch.js,37,0,0
+1632128391864,36,/ru/my-account-83-40,200,OK,Thread Group 1-1,text,true,,1291,706,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/tools/vatManagement.js,36,0,0
+1632128391867,37,/ru/my-account-83-41,200,OK,Thread Group 1-1,text,true,,2001,709,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/tools/statesManagement.js,37,0,0
+1632128391886,34,/ru/my-account-83-42,200,OK,Thread Group 1-1,text,true,,1713,701,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/authentication.js,34,0,0
+1632128391887,37,/ru/my-account-83-43,200,OK,Thread Group 1-1,text,true,,9345,670,1,1,http://prestashop.qatestlab.com.ua/js/validate.js,36,0,0
+1632128391889,36,/ru/my-account-83-44,200,OK,Thread Group 1-1,text,true,,8025,806,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blockcart/ajax-cart.js,35,0,0
+1632128391900,37,/ru/my-account-83-45,200,OK,Thread Group 1-1,text,true,,1675,783,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/jquery.scrollTo.js,36,0,0
+1632128391902,40,/ru/my-account-83-46,200,OK,Thread Group 1-1,text,true,,1412,787,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/jquery.serialScroll.js,40,0,0
+1632128391904,38,/ru/my-account-83-47,200,OK,Thread Group 1-1,text,true,,5492,793,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/bxslider/jquery.bxslider.js,38,0,0
+1632128391921,35,/ru/my-account-83-48,200,OK,Thread Group 1-1,text,true,,1495,798,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/tools/treeManagement.js,35,0,0
+1632128391924,39,/ru/my-account-83-49,200,OK,Thread Group 1-1,text,true,,1206,817,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blocknewsletter/blocknewsletter.js,39,0,0
+1632128391925,38,/ru/my-account-83-50,200,OK,Thread Group 1-1,text,true,,6828,801,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/autocomplete/jquery.autocomplete.js,38,0,0
+1632128391937,36,/ru/my-account-83-51,200,OK,Thread Group 1-1,text,true,,1868,809,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blocksearch/blocksearch.js,36,0,0
+1632128391943,37,/ru/my-account-83-52,200,OK,Thread Group 1-1,text,true,,2904,817,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blockwishlist/js/ajax-wishlist.js,37,0,0
+1632128391943,37,/ru/my-account-83-53,200,OK,Thread Group 1-1,text,true,,1981,814,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blocktopmenu/js/hoverIntent.js,37,0,0
+1632128391957,35,/ru/my-account-83-54,200,OK,Thread Group 1-1,text,true,,2661,821,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blocktopmenu/js/superfish-modified.js,35,0,0
+1632128391964,35,/ru/my-account-83-55,200,OK,Thread Group 1-1,text,true,,1860,814,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blocktopmenu/js/blocktopmenu.js,35,0,0
+1632128391964,36,/ru/my-account-83-56,200,OK,Thread Group 1-1,text,true,,4750,784,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/cusel.js,36,0,0
+1632128391974,36,/ru/my-account-83-57,200,OK,Thread Group 1-1,text,true,,4593,790,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/jScrollPane.js,36,0,0
+1632128391981,37,/ru/my-account-83-58,200,OK,Thread Group 1-1,text,true,,1337,795,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/jquery.mousewheel.js,37,0,0
+1632128391981,37,/ru/my-account-83-59,304,Not Modified,Thread Group 1-1,,true,,198,777,1,1,http://prestashop.qatestlab.com.ua/modules/blockbanner/img/sale70.png,0,0,0
+1632128391992,35,/ru/my-account-83-60,304,Not Modified,Thread Group 1-1,,true,,198,755,1,1,http://prestashop.qatestlab.com.ua/img/logo.jpg,0,0,0
+1632128392000,34,/ru/my-account-83-61,304,Not Modified,Thread Group 1-1,,true,,198,762,1,1,http://prestashop.qatestlab.com.ua/img/c/3-0_thumb.jpg,0,0,0
+1632128392000,34,/ru/my-account-83-62,304,Not Modified,Thread Group 1-1,,true,,198,762,1,1,http://prestashop.qatestlab.com.ua/img/c/3-1_thumb.jpg,0,0,0
+1632128391447,587,navigate_to_register_page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,246960,49475,1,1,null,73,2,0
+1632128392037,90,/-147,200,OK,Thread Group 1-1,text,true,,2566,927,1,1,http://prestashop.qatestlab.com.ua/,90,0,0
+1632128392130,714,/ru/authentication-217,200,OK,Thread Group 1-1,text,true,,231003,64977,1,1,http://prestashop.qatestlab.com.ua/ru/my-account,203,0,0
+1632128392130,203,/ru/authentication-217-0,302,Found,Thread Group 1-1,text,true,,892,997,1,1,http://prestashop.qatestlab.com.ua/ru/authentication,203,0,0
+1632128392333,100,/ru/authentication-217-1,200,OK,Thread Group 1-1,text,true,,8045,1034,1,1,http://prestashop.qatestlab.com.ua/ru/my-account,99,0,0
+1632128392447,39,/ru/authentication-217-2,304,Not Modified,Thread Group 1-1,,true,,197,1095,1,1,http://prestashop.qatestlab.com.ua/img/favicon.ico?1428399122,0,0,0
+1632128392446,75,/ru/authentication-217-3,200,OK,Thread Group 1-1,text,true,,33915,1115,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/global.css,41,0,0
+1632128392448,38,/ru/authentication-217-4,200,OK,Thread Group 1-1,text,true,,535,1123,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/autoload/highdpi.css,38,0,0
+1632128392448,36,/ru/authentication-217-5,200,OK,Thread Group 1-1,text,true,,901,1133,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/autoload/responsive-tables.css,36,0,0
+1632128392445,39,/ru/authentication-217-6,200,OK,Thread Group 1-1,text,true,,2682,1132,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/autoload/uniform.default.css,39,0,0
+1632128392445,38,/ru/authentication-217-7,200,OK,Thread Group 1-1,text,true,,1777,1121,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/fancybox/jquery.fancybox.css,38,0,0
+1632128392484,35,/ru/authentication-217-8,200,OK,Thread Group 1-1,text,true,,986,1026,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/my-account.css,35,0,0
+1632128392485,37,/ru/authentication-217-9,200,OK,Thread Group 1-1,text,true,,469,1137,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockbanner/blockbanner.css,37,0,0
+1632128392485,37,/ru/authentication-217-10,200,OK,Thread Group 1-1,text,true,,3124,1135,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockcart/blockcart.css,36,0,0
+1632128392486,38,/ru/authentication-217-11,200,OK,Thread Group 1-1,text,true,,1103,1146,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockcategories/blockcategories.css,38,0,0
+1632128392486,38,/ru/authentication-217-12,200,OK,Thread Group 1-1,text,true,,942,1146,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockcurrencies/blockcurrencies.css,38,0,0
+1632128392521,35,/ru/authentication-217-13,200,OK,Thread Group 1-1,text,true,,923,1144,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocklanguages/blocklanguages.css,35,0,0
+1632128392523,36,/ru/authentication-217-14,200,OK,Thread Group 1-1,text,true,,867,1140,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockcontact/blockcontact.css,36,0,0
+1632128392523,35,/ru/authentication-217-15,200,OK,Thread Group 1-1,text,true,,1164,1146,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocknewsletter/blocknewsletter.css,35,0,0
+1632128392523,35,/ru/authentication-217-16,200,OK,Thread Group 1-1,text,true,,804,1128,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/autocomplete/jquery.autocomplete.css,35,0,0
+1632128392525,37,/ru/authentication-217-17,200,OK,Thread Group 1-1,text,true,,2861,1120,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/product_list.css,37,0,0
+1632128392525,37,/ru/authentication-217-18,200,OK,Thread Group 1-1,text,true,,914,1138,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocksearch/blocksearch.css,37,0,0
+1632128392557,35,/ru/authentication-217-19,200,OK,Thread Group 1-1,text,true,,573,1134,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocktags/blocktags.css,35,0,0
+1632128392559,34,/ru/authentication-217-20,200,OK,Thread Group 1-1,text,true,,599,1142,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockuserinfo/blockuserinfo.css,34,0,0
+1632128392559,35,/ru/authentication-217-21,200,OK,Thread Group 1-1,text,true,,477,1137,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockviewed/blockviewed.css,35,0,0
+1632128392560,36,/ru/authentication-217-22,200,OK,Thread Group 1-1,text,true,,735,1113,1,1,http://prestashop.qatestlab.com.ua/modules/themeconfigurator/css/hooks.css,35,0,0
+1632128392563,37,/ru/authentication-217-23,200,OK,Thread Group 1-1,text,true,,1456,1143,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockwishlist/blockwishlist.css,37,0,0
+1632128392564,37,/ru/authentication-217-24,200,OK,Thread Group 1-1,text,true,,1889,1147,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/productcomments/productcomments.css,37,0,0
+1632128392593,35,/ru/authentication-217-25,304,Not Modified,Thread Group 1-1,,true,,196,1138,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocktopmenu/css/blocktopmenu.css,0,0,0
+1632128392594,35,/ru/authentication-217-26,200,OK,Thread Group 1-1,text,true,,1736,1151,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocktopmenu/css/superfish-modified.css,35,0,0
+1632128392594,38,/ru/authentication-217-27,200,OK,Thread Group 1-1,text,true,,1768,1112,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/cusel.css,38,0,0
+1632128392596,41,/ru/authentication-217-28,200,OK,Thread Group 1-1,text,true,,32436,1123,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/jquery-1.6.2.min.js,39,0,0
+1632128392601,90,/ru/authentication-217-29,200,OK,Thread Group 1-1,text,true,,33751,1106,1,1,http://prestashop.qatestlab.com.ua/js/jquery/jquery-1.11.0.min.js,39,0,0
+1632128392601,38,/ru/authentication-217-30,200,OK,Thread Group 1-1,text,true,,3431,1112,1,1,http://prestashop.qatestlab.com.ua/js/jquery/jquery-migrate-1.2.1.min.js,38,0,0
+1632128392628,36,/ru/authentication-217-31,200,OK,Thread Group 1-1,text,true,,1530,1109,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/jquery.easing.js,36,0,0
+1632128392629,38,/ru/authentication-217-32,200,OK,Thread Group 1-1,text,true,,5883,1086,1,1,http://prestashop.qatestlab.com.ua/js/tools.js,38,0,0
+1632128392633,35,/ru/authentication-217-33,200,OK,Thread Group 1-1,text,true,,4315,1112,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/global.js,35,0,0
+1632128392638,36,/ru/authentication-217-34,200,OK,Thread Group 1-1,text,true,,7594,1131,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/autoload/10-bootstrap.min.js,36,0,0
+1632128392639,39,/ru/authentication-217-35,200,OK,Thread Group 1-1,text,true,,1400,1141,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/autoload/15-jquery.total-storage.min.js,38,0,0
+1632128392664,38,/ru/authentication-217-36,200,OK,Thread Group 1-1,text,true,,8236,1141,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/autoload/15-jquery.uniform-modified.js,38,0,0
+1632128392667,37,/ru/authentication-217-37,200,OK,Thread Group 1-1,text,true,,9002,1120,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/fancybox/jquery.fancybox.js,37,0,0
+1632128392668,36,/ru/authentication-217-38,200,OK,Thread Group 1-1,text,true,,2016,1125,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/products-comparison.js,36,0,0
+1632128392675,37,/ru/authentication-217-39,200,OK,Thread Group 1-1,text,true,,8025,1133,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blockcart/ajax-cart.js,36,0,0
+1632128392688,38,/ru/authentication-217-40,200,OK,Thread Group 1-1,text,true,,1675,1110,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/jquery.scrollTo.js,38,0,0
+1632128392691,38,/ru/authentication-217-41,200,OK,Thread Group 1-1,text,true,,1412,1114,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/jquery.serialScroll.js,38,0,0
+1632128392702,36,/ru/authentication-217-42,200,OK,Thread Group 1-1,text,true,,5492,1120,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/bxslider/jquery.bxslider.js,36,0,0
+1632128392705,36,/ru/authentication-217-43,200,OK,Thread Group 1-1,text,true,,1495,1125,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/tools/treeManagement.js,36,0,0
+1632128392705,34,/ru/authentication-217-44,200,OK,Thread Group 1-1,text,true,,1206,1144,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blocknewsletter/blocknewsletter.js,34,0,0
+1632128392712,37,/ru/authentication-217-45,200,OK,Thread Group 1-1,text,true,,6828,1128,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/autocomplete/jquery.autocomplete.js,37,0,0
+1632128392727,38,/ru/authentication-217-46,200,OK,Thread Group 1-1,text,true,,1868,1136,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blocksearch/blocksearch.js,38,0,0
+1632128392729,40,/ru/authentication-217-47,200,OK,Thread Group 1-1,text,true,,2904,1144,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blockwishlist/js/ajax-wishlist.js,40,0,0
+1632128392738,35,/ru/authentication-217-48,200,OK,Thread Group 1-1,text,true,,1981,1141,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blocktopmenu/js/hoverIntent.js,35,0,0
+1632128392740,35,/ru/authentication-217-49,200,OK,Thread Group 1-1,text,true,,2661,1148,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blocktopmenu/js/superfish-modified.js,35,0,0
+1632128392742,34,/ru/authentication-217-50,200,OK,Thread Group 1-1,text,true,,1860,1141,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blocktopmenu/js/blocktopmenu.js,34,0,0
+1632128392751,36,/ru/authentication-217-51,200,OK,Thread Group 1-1,text,true,,4750,1111,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/cusel.js,36,0,0
+1632128392768,37,/ru/authentication-217-52,200,OK,Thread Group 1-1,text,true,,4593,1117,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/jScrollPane.js,37,0,0
+1632128392769,38,/ru/authentication-217-53,200,OK,Thread Group 1-1,text,true,,1337,1122,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/jquery.mousewheel.js,38,0,0
+1632128392774,70,/ru/authentication-217-54,304,Not Modified,Thread Group 1-1,,true,,198,1104,1,1,http://prestashop.qatestlab.com.ua/modules/blockbanner/img/sale70.png,0,0,34
+1632128392775,35,/ru/authentication-217-55,304,Not Modified,Thread Group 1-1,,true,,198,1082,1,1,http://prestashop.qatestlab.com.ua/img/logo.jpg,0,0,0
+1632128392776,34,/ru/authentication-217-56,304,Not Modified,Thread Group 1-1,,true,,198,1089,1,1,http://prestashop.qatestlab.com.ua/img/c/3-0_thumb.jpg,0,0,0
+1632128392788,35,/ru/authentication-217-57,304,Not Modified,Thread Group 1-1,,true,,198,1089,1,1,http://prestashop.qatestlab.com.ua/img/c/3-1_thumb.jpg,0,0,0
+1632128392036,804,register_page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,233569,65904,1,1,null,293,16,0
+1632128392857,531,/ru/address-275,200,OK,Thread Group 1-1,text,true,,243461,60531,1,1,http://prestashop.qatestlab.com.ua/ru/address,104,0,0
+1632128392857,104,/ru/address-275-0,200,OK,Thread Group 1-1,text,true,,9744,896,1,1,http://prestashop.qatestlab.com.ua/ru/address,104,0,0
+1632128392984,42,/ru/address-275-1,304,Not Modified,Thread Group 1-1,,true,,197,998,1,1,http://prestashop.qatestlab.com.ua/img/favicon.ico?1428399122,0,0,0
+1632128392986,49,/ru/address-275-2,200,OK,Thread Group 1-1,text,true,,33915,1018,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/global.css,47,0,0
+1632128392986,38,/ru/address-275-3,200,OK,Thread Group 1-1,text,true,,535,1026,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/autoload/highdpi.css,38,0,0
+1632128392986,38,/ru/address-275-4,200,OK,Thread Group 1-1,text,true,,901,1036,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/autoload/responsive-tables.css,38,0,0
+1632128392985,37,/ru/address-275-5,200,OK,Thread Group 1-1,text,true,,2682,1035,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/autoload/uniform.default.css,37,0,0
+1632128392985,37,/ru/address-275-6,200,OK,Thread Group 1-1,text,true,,1777,1024,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/fancybox/jquery.fancybox.css,37,0,0
+1632128393026,37,/ru/address-275-7,200,OK,Thread Group 1-1,text,true,,469,1040,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockbanner/blockbanner.css,36,0,0
+1632128393027,36,/ru/address-275-8,200,OK,Thread Group 1-1,text,true,,3124,1038,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockcart/blockcart.css,35,0,0
+1632128393027,41,/ru/address-275-9,200,OK,Thread Group 1-1,text,true,,1103,1049,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockcategories/blockcategories.css,40,0,0
+1632128393028,40,/ru/address-275-10,200,OK,Thread Group 1-1,text,true,,942,1049,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockcurrencies/blockcurrencies.css,39,0,0
+1632128393028,40,/ru/address-275-11,200,OK,Thread Group 1-1,text,true,,923,1047,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocklanguages/blocklanguages.css,39,0,0
+1632128393039,37,/ru/address-275-12,200,OK,Thread Group 1-1,text,true,,867,1043,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockcontact/blockcontact.css,37,0,0
+1632128393065,35,/ru/address-275-13,200,OK,Thread Group 1-1,text,true,,1164,1049,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocknewsletter/blocknewsletter.css,35,0,0
+1632128393065,36,/ru/address-275-14,200,OK,Thread Group 1-1,text,true,,804,1031,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/autocomplete/jquery.autocomplete.css,36,0,0
+1632128393071,38,/ru/address-275-15,200,OK,Thread Group 1-1,text,true,,2861,1023,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/product_list.css,38,0,0
+1632128393071,35,/ru/address-275-16,200,OK,Thread Group 1-1,text,true,,914,1041,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocksearch/blocksearch.css,35,0,0
+1632128393071,35,/ru/address-275-17,200,OK,Thread Group 1-1,text,true,,573,1037,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocktags/blocktags.css,35,0,0
+1632128393078,37,/ru/address-275-18,200,OK,Thread Group 1-1,text,true,,599,1045,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockuserinfo/blockuserinfo.css,37,0,0
+1632128393101,36,/ru/address-275-19,200,OK,Thread Group 1-1,text,true,,477,1040,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockviewed/blockviewed.css,36,0,0
+1632128393102,35,/ru/address-275-20,200,OK,Thread Group 1-1,text,true,,735,1016,1,1,http://prestashop.qatestlab.com.ua/modules/themeconfigurator/css/hooks.css,35,0,0
+1632128393107,35,/ru/address-275-21,200,OK,Thread Group 1-1,text,true,,1456,1046,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockwishlist/blockwishlist.css,35,0,0
+1632128393107,35,/ru/address-275-22,200,OK,Thread Group 1-1,text,true,,1889,1050,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/productcomments/productcomments.css,35,0,0
+1632128393110,38,/ru/address-275-23,304,Not Modified,Thread Group 1-1,,true,,196,1041,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocktopmenu/css/blocktopmenu.css,0,0,0
+1632128393116,38,/ru/address-275-24,200,OK,Thread Group 1-1,text,true,,1736,1054,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocktopmenu/css/superfish-modified.css,38,0,0
+1632128393138,36,/ru/address-275-25,200,OK,Thread Group 1-1,text,true,,1768,1015,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/cusel.css,36,0,0
+1632128393138,71,/ru/address-275-26,200,OK,Thread Group 1-1,text,true,,32436,1026,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/jquery-1.6.2.min.js,38,0,0
+1632128393143,74,/ru/address-275-27,200,OK,Thread Group 1-1,text,true,,33751,1009,1,1,http://prestashop.qatestlab.com.ua/js/jquery/jquery-1.11.0.min.js,40,0,0
+1632128393143,35,/ru/address-275-28,200,OK,Thread Group 1-1,text,true,,3431,1015,1,1,http://prestashop.qatestlab.com.ua/js/jquery/jquery-migrate-1.2.1.min.js,35,0,0
+1632128393149,37,/ru/address-275-29,200,OK,Thread Group 1-1,text,true,,1530,1012,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/jquery.easing.js,37,0,0
+1632128393154,38,/ru/address-275-30,200,OK,Thread Group 1-1,text,true,,5883,989,1,1,http://prestashop.qatestlab.com.ua/js/tools.js,38,0,0
+1632128393174,37,/ru/address-275-31,200,OK,Thread Group 1-1,text,true,,4315,1015,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/global.js,37,0,0
+1632128393179,35,/ru/address-275-32,200,OK,Thread Group 1-1,text,true,,7594,1034,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/autoload/10-bootstrap.min.js,35,0,0
+1632128393186,37,/ru/address-275-33,200,OK,Thread Group 1-1,text,true,,1400,1044,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/autoload/15-jquery.total-storage.min.js,37,0,0
+1632128393192,40,/ru/address-275-34,200,OK,Thread Group 1-1,text,true,,8236,1044,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/autoload/15-jquery.uniform-modified.js,40,0,0
+1632128393209,39,/ru/address-275-35,200,OK,Thread Group 1-1,text,true,,9002,1023,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/fancybox/jquery.fancybox.js,35,0,0
+1632128393211,38,/ru/address-275-36,200,OK,Thread Group 1-1,text,true,,2016,1028,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/products-comparison.js,38,0,0
+1632128393215,35,/ru/address-275-37,200,OK,Thread Group 1-1,text,true,,1291,1027,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/tools/vatManagement.js,35,0,0
+1632128393218,34,/ru/address-275-38,200,OK,Thread Group 1-1,text,true,,2001,1031,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/tools/statesManagement.js,34,0,0
+1632128393224,38,/ru/address-275-39,200,OK,Thread Group 1-1,text,true,,9345,992,1,1,http://prestashop.qatestlab.com.ua/js/validate.js,38,0,0
+1632128393233,38,/ru/address-275-40,200,OK,Thread Group 1-1,text,true,,8025,1036,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blockcart/ajax-cart.js,38,0,0
+1632128393249,36,/ru/address-275-41,200,OK,Thread Group 1-1,text,true,,1675,1013,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/jquery.scrollTo.js,36,0,0
+1632128393249,35,/ru/address-275-42,200,OK,Thread Group 1-1,text,true,,1412,1017,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/jquery.serialScroll.js,35,0,0
+1632128393250,36,/ru/address-275-43,200,OK,Thread Group 1-1,text,true,,5492,1023,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/bxslider/jquery.bxslider.js,36,0,0
+1632128393253,35,/ru/address-275-44,200,OK,Thread Group 1-1,text,true,,1495,1028,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/tools/treeManagement.js,35,0,0
+1632128393263,37,/ru/address-275-45,200,OK,Thread Group 1-1,text,true,,1206,1047,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blocknewsletter/blocknewsletter.js,37,0,0
+1632128393272,38,/ru/address-275-46,200,OK,Thread Group 1-1,text,true,,6828,1031,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/autocomplete/jquery.autocomplete.js,38,0,0
+1632128393285,35,/ru/address-275-47,200,OK,Thread Group 1-1,text,true,,1868,1039,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blocksearch/blocksearch.js,35,0,0
+1632128393285,35,/ru/address-275-48,200,OK,Thread Group 1-1,text,true,,2904,1047,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blockwishlist/js/ajax-wishlist.js,35,0,0
+1632128393286,36,/ru/address-275-49,200,OK,Thread Group 1-1,text,true,,1981,1044,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blocktopmenu/js/hoverIntent.js,36,0,0
+1632128393288,36,/ru/address-275-50,200,OK,Thread Group 1-1,text,true,,2661,1051,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blocktopmenu/js/superfish-modified.js,36,0,0
+1632128393301,37,/ru/address-275-51,200,OK,Thread Group 1-1,text,true,,1860,1044,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blocktopmenu/js/blocktopmenu.js,37,0,0
+1632128393310,39,/ru/address-275-52,200,OK,Thread Group 1-1,text,true,,4750,1014,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/cusel.js,38,0,0
+1632128393320,43,/ru/address-275-53,200,OK,Thread Group 1-1,text,true,,4593,1020,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/jScrollPane.js,43,0,0
+1632128393321,42,/ru/address-275-54,200,OK,Thread Group 1-1,text,true,,1337,1025,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/jquery.mousewheel.js,42,0,0
+1632128393323,41,/ru/address-275-55,304,Not Modified,Thread Group 1-1,,true,,198,1007,1,1,http://prestashop.qatestlab.com.ua/modules/blockbanner/img/sale70.png,0,0,0
+1632128393324,40,/ru/address-275-56,304,Not Modified,Thread Group 1-1,,true,,198,985,1,1,http://prestashop.qatestlab.com.ua/img/logo.jpg,0,0,0
+1632128393339,46,/ru/address-275-57,304,Not Modified,Thread Group 1-1,,true,,198,992,1,1,http://prestashop.qatestlab.com.ua/img/c/3-0_thumb.jpg,0,0,0
+1632128393349,39,/ru/address-275-58,304,Not Modified,Thread Group 1-1,,true,,198,992,1,1,http://prestashop.qatestlab.com.ua/img/c/3-1_thumb.jpg,0,0,0
+1632128392856,531,navigate_to_adress_page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,243461,60531,1,1,null,104,3,0
+1632128393390,578,/ru/address-337,200,OK,Thread Group 1-1,text,true,,229547,64818,1,1,http://prestashop.qatestlab.com.ua/ru/addresses,99,0,0
+1632128393390,99,/ru/address-337-0,302,Found,Thread Group 1-1,text,true,,281,1277,1,1,http://prestashop.qatestlab.com.ua/ru/address,99,0,0
+1632128393489,100,/ru/address-337-1,200,OK,Thread Group 1-1,text,true,,7661,988,1,1,http://prestashop.qatestlab.com.ua/ru/addresses,99,0,0
+1632128393597,37,/ru/address-337-2,304,Not Modified,Thread Group 1-1,,true,,197,1088,1,1,http://prestashop.qatestlab.com.ua/img/favicon.ico?1428399122,0,0,0
+1632128393597,74,/ru/address-337-3,200,OK,Thread Group 1-1,text,true,,33915,1108,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/global.css,39,0,0
+1632128393598,36,/ru/address-337-4,200,OK,Thread Group 1-1,text,true,,535,1116,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/autoload/highdpi.css,36,0,0
+1632128393598,35,/ru/address-337-5,200,OK,Thread Group 1-1,text,true,,901,1126,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/autoload/responsive-tables.css,35,0,0
+1632128393598,35,/ru/address-337-6,200,OK,Thread Group 1-1,text,true,,2682,1125,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/autoload/uniform.default.css,35,0,0
+1632128393598,35,/ru/address-337-7,200,OK,Thread Group 1-1,text,true,,1777,1114,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/fancybox/jquery.fancybox.css,35,0,0
+1632128393633,40,/ru/address-337-8,200,OK,Thread Group 1-1,text,true,,525,1018,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/addresses.css,36,0,0
+1632128393634,35,/ru/address-337-9,200,OK,Thread Group 1-1,text,true,,469,1130,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockbanner/blockbanner.css,35,0,0
+1632128393634,39,/ru/address-337-10,200,OK,Thread Group 1-1,text,true,,3124,1128,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockcart/blockcart.css,39,0,0
+1632128393635,45,/ru/address-337-11,200,OK,Thread Group 1-1,text,true,,1103,1139,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockcategories/blockcategories.css,45,0,0
+1632128393635,36,/ru/address-337-12,200,OK,Thread Group 1-1,text,true,,942,1139,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockcurrencies/blockcurrencies.css,36,0,0
+1632128393669,36,/ru/address-337-13,200,OK,Thread Group 1-1,text,true,,923,1137,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocklanguages/blocklanguages.css,36,0,0
+1632128393672,37,/ru/address-337-14,200,OK,Thread Group 1-1,text,true,,867,1133,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockcontact/blockcontact.css,37,0,0
+1632128393672,35,/ru/address-337-15,200,OK,Thread Group 1-1,text,true,,1164,1139,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocknewsletter/blocknewsletter.css,35,0,0
+1632128393673,36,/ru/address-337-16,200,OK,Thread Group 1-1,text,true,,804,1121,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/autocomplete/jquery.autocomplete.css,35,0,0
+1632128393674,35,/ru/address-337-17,200,OK,Thread Group 1-1,text,true,,2861,1113,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/product_list.css,35,0,0
+1632128393681,37,/ru/address-337-18,200,OK,Thread Group 1-1,text,true,,914,1131,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocksearch/blocksearch.css,37,0,0
+1632128393705,35,/ru/address-337-19,200,OK,Thread Group 1-1,text,true,,573,1127,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocktags/blocktags.css,35,0,0
+1632128393708,34,/ru/address-337-20,200,OK,Thread Group 1-1,text,true,,599,1135,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockuserinfo/blockuserinfo.css,34,0,0
+1632128393709,39,/ru/address-337-21,200,OK,Thread Group 1-1,text,true,,477,1130,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockviewed/blockviewed.css,39,0,0
+1632128393709,36,/ru/address-337-22,200,OK,Thread Group 1-1,text,true,,735,1106,1,1,http://prestashop.qatestlab.com.ua/modules/themeconfigurator/css/hooks.css,36,0,0
+1632128393710,35,/ru/address-337-23,200,OK,Thread Group 1-1,text,true,,1456,1136,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockwishlist/blockwishlist.css,35,0,0
+1632128393719,37,/ru/address-337-24,200,OK,Thread Group 1-1,text,true,,1889,1140,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/productcomments/productcomments.css,37,0,0
+1632128393741,35,/ru/address-337-25,304,Not Modified,Thread Group 1-1,,true,,196,1131,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocktopmenu/css/blocktopmenu.css,0,0,0
+1632128393743,35,/ru/address-337-26,200,OK,Thread Group 1-1,text,true,,1736,1144,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocktopmenu/css/superfish-modified.css,35,0,0
+1632128393745,38,/ru/address-337-27,200,OK,Thread Group 1-1,text,true,,1768,1105,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/cusel.css,38,0,0
+1632128393745,44,/ru/address-337-28,200,OK,Thread Group 1-1,text,true,,32436,1116,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/jquery-1.6.2.min.js,41,0,0
+1632128393749,42,/ru/address-337-29,200,OK,Thread Group 1-1,text,true,,33751,1099,1,1,http://prestashop.qatestlab.com.ua/js/jquery/jquery-1.11.0.min.js,40,0,0
+1632128393756,38,/ru/address-337-30,200,OK,Thread Group 1-1,text,true,,3431,1105,1,1,http://prestashop.qatestlab.com.ua/js/jquery/jquery-migrate-1.2.1.min.js,38,0,0
+1632128393776,36,/ru/address-337-31,200,OK,Thread Group 1-1,text,true,,1530,1102,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/jquery.easing.js,36,0,0
+1632128393778,43,/ru/address-337-32,200,OK,Thread Group 1-1,text,true,,5883,1079,1,1,http://prestashop.qatestlab.com.ua/js/tools.js,43,0,0
+1632128393783,38,/ru/address-337-33,200,OK,Thread Group 1-1,text,true,,4315,1105,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/global.js,38,0,0
+1632128393789,38,/ru/address-337-34,200,OK,Thread Group 1-1,text,true,,7594,1124,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/autoload/10-bootstrap.min.js,37,0,0
+1632128393792,41,/ru/address-337-35,200,OK,Thread Group 1-1,text,true,,1400,1134,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/autoload/15-jquery.total-storage.min.js,40,0,0
+1632128393794,39,/ru/address-337-36,200,OK,Thread Group 1-1,text,true,,8236,1134,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/autoload/15-jquery.uniform-modified.js,39,0,0
+1632128393813,37,/ru/address-337-37,200,OK,Thread Group 1-1,text,true,,9002,1113,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/fancybox/jquery.fancybox.js,36,0,0
+1632128393822,36,/ru/address-337-38,200,OK,Thread Group 1-1,text,true,,2016,1118,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/products-comparison.js,36,0,0
+1632128393822,37,/ru/address-337-39,200,OK,Thread Group 1-1,text,true,,8025,1126,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blockcart/ajax-cart.js,37,0,0
+1632128393828,40,/ru/address-337-40,200,OK,Thread Group 1-1,text,true,,1675,1103,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/jquery.scrollTo.js,40,0,0
+1632128393834,37,/ru/address-337-41,200,OK,Thread Group 1-1,text,true,,1412,1107,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/jquery.serialScroll.js,37,0,0
+1632128393834,39,/ru/address-337-42,200,OK,Thread Group 1-1,text,true,,5492,1113,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/bxslider/jquery.bxslider.js,38,0,0
+1632128393851,36,/ru/address-337-43,200,OK,Thread Group 1-1,text,true,,1495,1118,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/tools/treeManagement.js,36,0,0
+1632128393859,37,/ru/address-337-44,200,OK,Thread Group 1-1,text,true,,1206,1137,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blocknewsletter/blocknewsletter.js,37,0,0
+1632128393860,37,/ru/address-337-45,200,OK,Thread Group 1-1,text,true,,6828,1121,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/autocomplete/jquery.autocomplete.js,36,0,0
+1632128393869,36,/ru/address-337-46,200,OK,Thread Group 1-1,text,true,,1868,1129,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blocksearch/blocksearch.js,36,0,0
+1632128393872,38,/ru/address-337-47,200,OK,Thread Group 1-1,text,true,,2904,1137,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blockwishlist/js/ajax-wishlist.js,38,0,0
+1632128393874,37,/ru/address-337-48,200,OK,Thread Group 1-1,text,true,,1981,1134,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blocktopmenu/js/hoverIntent.js,37,0,0
+1632128393888,35,/ru/address-337-49,200,OK,Thread Group 1-1,text,true,,2661,1141,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blocktopmenu/js/superfish-modified.js,35,0,0
+1632128393897,35,/ru/address-337-50,200,OK,Thread Group 1-1,text,true,,1860,1134,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blocktopmenu/js/blocktopmenu.js,35,0,0
+1632128393897,36,/ru/address-337-51,200,OK,Thread Group 1-1,text,true,,4750,1104,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/cusel.js,36,0,0
+1632128393906,36,/ru/address-337-52,200,OK,Thread Group 1-1,text,true,,4593,1110,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/jScrollPane.js,36,0,0
+1632128393910,38,/ru/address-337-53,200,OK,Thread Group 1-1,text,true,,1337,1115,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/jquery.mousewheel.js,38,0,0
+1632128393911,37,/ru/address-337-54,304,Not Modified,Thread Group 1-1,,true,,198,1097,1,1,http://prestashop.qatestlab.com.ua/modules/blockbanner/img/sale70.png,0,0,0
+1632128393924,34,/ru/address-337-55,304,Not Modified,Thread Group 1-1,,true,,198,1075,1,1,http://prestashop.qatestlab.com.ua/img/logo.jpg,0,0,0
+1632128393933,35,/ru/address-337-56,304,Not Modified,Thread Group 1-1,,true,,198,1082,1,1,http://prestashop.qatestlab.com.ua/img/c/3-0_thumb.jpg,0,0,0
+1632128393933,35,/ru/address-337-57,304,Not Modified,Thread Group 1-1,,true,,198,1082,1,1,http://prestashop.qatestlab.com.ua/img/c/3-1_thumb.jpg,0,0,0
+1632128393390,578,adress_page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,229547,64818,1,1,null,99,3,0
+1632128393971,766,/ru/4-tops-395,200,OK,Thread Group 1-1,text,true,,393793,85091,1,1,http://prestashop.qatestlab.com.ua/ru/4-tops,188,0,0
+1632128393971,189,/ru/4-tops-395-0,200,OK,Thread Group 1-1,text,true,,16401,894,1,1,http://prestashop.qatestlab.com.ua/ru/4-tops,188,0,0
+1632128394179,35,/ru/4-tops-395-1,304,Not Modified,Thread Group 1-1,,true,,197,1027,1,1,http://prestashop.qatestlab.com.ua/img/favicon.ico?1428399122,0,0,0
+1632128394181,73,/ru/4-tops-395-2,200,OK,Thread Group 1-1,text,true,,33915,1047,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/global.css,39,0,0
+1632128394182,36,/ru/4-tops-395-3,200,OK,Thread Group 1-1,text,true,,535,1055,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/autoload/highdpi.css,36,0,0
+1632128394181,36,/ru/4-tops-395-4,200,OK,Thread Group 1-1,text,true,,901,1065,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/autoload/responsive-tables.css,36,0,0
+1632128394181,38,/ru/4-tops-395-5,200,OK,Thread Group 1-1,text,true,,2682,1064,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/autoload/uniform.default.css,37,0,0
+1632128394181,35,/ru/4-tops-395-6,200,OK,Thread Group 1-1,text,true,,1777,1053,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/fancybox/jquery.fancybox.css,35,0,0
+1632128394215,35,/ru/4-tops-395-7,200,OK,Thread Group 1-1,text,true,,2861,1052,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/product_list.css,35,0,0
+1632128394217,35,/ru/4-tops-395-8,200,OK,Thread Group 1-1,text,true,,1063,956,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/category.css,34,0,0
+1632128394217,36,/ru/4-tops-395-9,200,OK,Thread Group 1-1,text,true,,1006,954,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/scenes.css,36,0,0
+1632128394218,47,/ru/4-tops-395-10,200,OK,Thread Group 1-1,text,true,,469,1069,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockbanner/blockbanner.css,47,0,0
+1632128394219,46,/ru/4-tops-395-11,200,OK,Thread Group 1-1,text,true,,3124,1067,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockcart/blockcart.css,46,0,0
+1632128394251,35,/ru/4-tops-395-12,200,OK,Thread Group 1-1,text,true,,1103,1078,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockcategories/blockcategories.css,35,0,0
+1632128394256,35,/ru/4-tops-395-13,200,OK,Thread Group 1-1,text,true,,942,1078,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockcurrencies/blockcurrencies.css,35,0,0
+1632128394258,35,/ru/4-tops-395-14,200,OK,Thread Group 1-1,text,true,,923,1076,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocklanguages/blocklanguages.css,35,0,0
+1632128394259,34,/ru/4-tops-395-15,200,OK,Thread Group 1-1,text,true,,1011,958,1,1,http://prestashop.qatestlab.com.ua/js/jquery/ui/themes/base/jquery.ui.core.css,34,0,0
+1632128394266,46,/ru/4-tops-395-16,200,OK,Thread Group 1-1,text,true,,864,960,1,1,http://prestashop.qatestlab.com.ua/js/jquery/ui/themes/base/jquery.ui.slider.css,46,0,0
+1632128394266,46,/ru/4-tops-395-17,200,OK,Thread Group 1-1,text,true,,3299,959,1,1,http://prestashop.qatestlab.com.ua/js/jquery/ui/themes/base/jquery.ui.theme.css,46,0,0
+1632128394287,35,/ru/4-tops-395-18,200,OK,Thread Group 1-1,text,true,,1320,981,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocklayered/blocklayered.css,35,0,0
+1632128394292,35,/ru/4-tops-395-19,200,OK,Thread Group 1-1,text,true,,867,1072,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockcontact/blockcontact.css,35,0,0
+1632128394294,38,/ru/4-tops-395-20,200,OK,Thread Group 1-1,text,true,,1164,1078,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocknewsletter/blocknewsletter.css,38,0,0
+1632128394295,37,/ru/4-tops-395-21,200,OK,Thread Group 1-1,text,true,,804,1060,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/autocomplete/jquery.autocomplete.css,37,0,0
+1632128394319,37,/ru/4-tops-395-22,200,OK,Thread Group 1-1,text,true,,914,1070,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocksearch/blocksearch.css,37,0,0
+1632128394326,35,/ru/4-tops-395-23,200,OK,Thread Group 1-1,text,true,,573,1066,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocktags/blocktags.css,35,0,0
+1632128394327,53,/ru/4-tops-395-24,200,OK,Thread Group 1-1,text,true,,599,1074,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockuserinfo/blockuserinfo.css,52,0,0
+1632128394327,53,/ru/4-tops-395-25,200,OK,Thread Group 1-1,text,true,,477,1069,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockviewed/blockviewed.css,52,0,0
+1632128394333,47,/ru/4-tops-395-26,200,OK,Thread Group 1-1,text,true,,735,1045,1,1,http://prestashop.qatestlab.com.ua/modules/themeconfigurator/css/hooks.css,47,0,0
+1632128394333,47,/ru/4-tops-395-27,200,OK,Thread Group 1-1,text,true,,1456,1075,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockwishlist/blockwishlist.css,47,0,0
+1632128394356,38,/ru/4-tops-395-28,200,OK,Thread Group 1-1,text,true,,1889,1079,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/productcomments/productcomments.css,38,0,0
+1632128394361,35,/ru/4-tops-395-29,304,Not Modified,Thread Group 1-1,,true,,196,1070,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocktopmenu/css/blocktopmenu.css,0,0,0
+1632128394381,36,/ru/4-tops-395-30,200,OK,Thread Group 1-1,text,true,,1736,1083,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocktopmenu/css/superfish-modified.css,36,0,0
+1632128394381,37,/ru/4-tops-395-31,200,OK,Thread Group 1-1,text,true,,1768,1044,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/cusel.css,37,0,0
+1632128394381,82,/ru/4-tops-395-32,200,OK,Thread Group 1-1,text,true,,32436,1055,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/jquery-1.6.2.min.js,38,0,0
+1632128394382,40,/ru/4-tops-395-33,200,OK,Thread Group 1-1,text,true,,33751,1038,1,1,http://prestashop.qatestlab.com.ua/js/jquery/jquery-1.11.0.min.js,37,0,0
+1632128394394,38,/ru/4-tops-395-34,200,OK,Thread Group 1-1,text,true,,3431,1044,1,1,http://prestashop.qatestlab.com.ua/js/jquery/jquery-migrate-1.2.1.min.js,38,0,0
+1632128394397,35,/ru/4-tops-395-35,200,OK,Thread Group 1-1,text,true,,1530,1041,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/jquery.easing.js,35,0,0
+1632128394417,46,/ru/4-tops-395-36,200,OK,Thread Group 1-1,text,true,,5883,1018,1,1,http://prestashop.qatestlab.com.ua/js/tools.js,46,0,0
+1632128394418,48,/ru/4-tops-395-37,200,OK,Thread Group 1-1,text,true,,4315,1044,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/global.js,46,0,0
+1632128394423,43,/ru/4-tops-395-38,200,OK,Thread Group 1-1,text,true,,7594,1063,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/autoload/10-bootstrap.min.js,43,0,0
+1632128394433,35,/ru/4-tops-395-39,200,OK,Thread Group 1-1,text,true,,1400,1073,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/autoload/15-jquery.total-storage.min.js,35,0,0
+1632128394433,38,/ru/4-tops-395-40,200,OK,Thread Group 1-1,text,true,,8236,1073,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/autoload/15-jquery.uniform-modified.js,38,0,0
+1632128394465,37,/ru/4-tops-395-41,200,OK,Thread Group 1-1,text,true,,9002,1052,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/fancybox/jquery.fancybox.js,36,0,0
+1632128394465,35,/ru/4-tops-395-42,200,OK,Thread Group 1-1,text,true,,2016,1057,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/products-comparison.js,35,0,0
+1632128394466,34,/ru/4-tops-395-43,200,OK,Thread Group 1-1,text,true,,994,954,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/category.js,34,0,0
+1632128394466,38,/ru/4-tops-395-44,200,OK,Thread Group 1-1,text,true,,8025,1065,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blockcart/ajax-cart.js,37,0,0
+1632128394468,35,/ru/4-tops-395-45,200,OK,Thread Group 1-1,text,true,,1675,1042,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/jquery.scrollTo.js,35,0,0
+1632128394472,37,/ru/4-tops-395-46,200,OK,Thread Group 1-1,text,true,,1412,1046,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/jquery.serialScroll.js,37,0,0
+1632128394500,36,/ru/4-tops-395-47,200,OK,Thread Group 1-1,text,true,,5492,1052,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/bxslider/jquery.bxslider.js,36,0,0
+1632128394500,35,/ru/4-tops-395-48,200,OK,Thread Group 1-1,text,true,,1495,1057,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/tools/treeManagement.js,35,0,0
+1632128394502,36,/ru/4-tops-395-49,200,OK,Thread Group 1-1,text,true,,5886,979,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blocklayered/blocklayered.js,36,0,0
+1632128394503,35,/ru/4-tops-395-50,200,OK,Thread Group 1-1,text,true,,2265,949,1,1,http://prestashop.qatestlab.com.ua/js/jquery/ui/jquery.ui.core.min.js,35,0,0
+1632128394504,37,/ru/4-tops-395-51,200,OK,Thread Group 1-1,text,true,,2836,951,1,1,http://prestashop.qatestlab.com.ua/js/jquery/ui/jquery.ui.widget.min.js,37,0,0
+1632128394509,39,/ru/4-tops-395-52,200,OK,Thread Group 1-1,text,true,,1293,950,1,1,http://prestashop.qatestlab.com.ua/js/jquery/ui/jquery.ui.mouse.min.js,39,0,0
+1632128394536,35,/ru/4-tops-395-53,200,OK,Thread Group 1-1,text,true,,3235,951,1,1,http://prestashop.qatestlab.com.ua/js/jquery/ui/jquery.ui.slider.min.js,35,0,0
+1632128394536,36,/ru/4-tops-395-54,200,OK,Thread Group 1-1,text,true,,1206,1076,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blocknewsletter/blocknewsletter.js,35,0,0
+1632128394538,37,/ru/4-tops-395-55,200,OK,Thread Group 1-1,text,true,,6828,1060,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/autocomplete/jquery.autocomplete.js,37,0,0
+1632128394539,36,/ru/4-tops-395-56,200,OK,Thread Group 1-1,text,true,,1868,1068,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blocksearch/blocksearch.js,36,0,0
+1632128394542,37,/ru/4-tops-395-57,200,OK,Thread Group 1-1,text,true,,2904,1076,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blockwishlist/js/ajax-wishlist.js,37,0,0
+1632128394549,37,/ru/4-tops-395-58,200,OK,Thread Group 1-1,text,true,,1981,1073,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blocktopmenu/js/hoverIntent.js,37,0,0
+1632128394572,36,/ru/4-tops-395-59,200,OK,Thread Group 1-1,text,true,,2661,1080,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blocktopmenu/js/superfish-modified.js,36,0,0
+1632128394572,36,/ru/4-tops-395-60,200,OK,Thread Group 1-1,text,true,,1860,1073,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blocktopmenu/js/blocktopmenu.js,36,0,0
+1632128394576,37,/ru/4-tops-395-61,200,OK,Thread Group 1-1,text,true,,4750,1043,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/cusel.js,37,0,0
+1632128394576,37,/ru/4-tops-395-62,200,OK,Thread Group 1-1,text,true,,4593,1049,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/jScrollPane.js,37,0,0
+1632128394580,37,/ru/4-tops-395-63,200,OK,Thread Group 1-1,text,true,,1337,1054,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/jquery.mousewheel.js,37,0,0
+1632128394587,35,/ru/4-tops-395-64,304,Not Modified,Thread Group 1-1,,true,,198,1036,1,1,http://prestashop.qatestlab.com.ua/modules/blockbanner/img/sale70.png,0,0,0
+1632128394608,35,/ru/4-tops-395-65,304,Not Modified,Thread Group 1-1,,true,,198,1014,1,1,http://prestashop.qatestlab.com.ua/img/logo.jpg,0,0,0
+1632128394608,35,/ru/4-tops-395-66,304,Not Modified,Thread Group 1-1,,true,,198,1021,1,1,http://prestashop.qatestlab.com.ua/img/c/3-0_thumb.jpg,0,0,0
+1632128394614,35,/ru/4-tops-395-67,304,Not Modified,Thread Group 1-1,,true,,198,1021,1,1,http://prestashop.qatestlab.com.ua/img/c/3-1_thumb.jpg,0,0,0
+1632128394614,35,/ru/4-tops-395-68,200,OK,Thread Group 1-1,bin,true,,4019,929,1,1,http://prestashop.qatestlab.com.ua/img/loader.gif,35,0,0
+1632128394618,37,/ru/4-tops-395-69,200,OK,Thread Group 1-1,bin,true,,2310,957,1,1,http://prestashop.qatestlab.com.ua/20-small_default/printed-chiffon-dress.jpg,37,0,0
+1632128394623,37,/ru/4-tops-395-70,200,OK,Thread Group 1-1,bin,true,,10697,943,1,1,http://prestashop.qatestlab.com.ua/modules/blockstore/store.jpg,37,0,0
+1632128394644,34,/ru/4-tops-395-71,304,Not Modified,Thread Group 1-1,,true,,198,1047,1,1,http://prestashop.qatestlab.com.ua/1-home_default/faded-short-sleeve-tshirts.jpg,0,0,0
+1632128394644,34,/ru/4-tops-395-72,304,Not Modified,Thread Group 1-1,,true,,198,1027,1,1,http://prestashop.qatestlab.com.ua/7-home_default/blouse.jpg,0,0,0
+1632128394650,36,/ru/4-tops-395-73,200,OK,Thread Group 1-1,bin,true,,16791,966,1,1,http://prestashop.qatestlab.com.ua/63-home_default/black-and-white-stripes-t-shirt.jpg,36,0,0
+1632128394650,36,/ru/4-tops-395-74,304,Not Modified,Thread Group 1-1,,true,,198,1047,1,1,http://prestashop.qatestlab.com.ua/24-home_default/black-blouse-with-flowers.jpg,0,0,0
+1632128394655,37,/ru/4-tops-395-75,200,OK,Thread Group 1-1,bin,true,,8250,944,1,1,http://prestashop.qatestlab.com.ua/34-home_default/white-top.jpg,37,0,0
+1632128394661,38,/ru/4-tops-395-76,200,OK,Thread Group 1-1,bin,true,,16791,962,1,1,http://prestashop.qatestlab.com.ua/35-home_default/black-and-white-striped-top.jpg,37,0,0
+1632128394679,36,/ru/4-tops-395-77,200,OK,Thread Group 1-1,bin,true,,10308,944,1,1,http://prestashop.qatestlab.com.ua/36-home_default/black-top.jpg,35,0,0
+1632128394679,36,/ru/4-tops-395-78,200,OK,Thread Group 1-1,bin,true,,11190,946,1,1,http://prestashop.qatestlab.com.ua/38-home_default/blue-blouse.jpg,34,0,0
+1632128394686,37,/ru/4-tops-395-79,200,OK,Thread Group 1-1,bin,true,,13929,957,1,1,http://prestashop.qatestlab.com.ua/62-home_default/vertical-striped-shirt.jpg,36,0,0
+1632128394687,35,/ru/4-tops-395-80,200,OK,Thread Group 1-1,bin,true,,10204,955,1,1,http://prestashop.qatestlab.com.ua/56-home_default/v-neckline-top-white.jpg,34,0,0
+1632128394692,41,/ru/4-tops-395-81,200,OK,Thread Group 1-1,bin,true,,12819,946,1,1,http://prestashop.qatestlab.com.ua/57-home_default/floral-top-.jpg,40,0,0
+1632128394699,38,/ru/4-tops-395-82,200,OK,Thread Group 1-1,bin,true,,13338,945,1,1,http://prestashop.qatestlab.com.ua/58-home_default/stripe-top.jpg,37,0,0
+1632128393971,766,navigate_to_products,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,393793,85091,1,1,null,188,1,0
+1632128394739,711,/?rand=1632119156772-487,200,OK,Thread Group 1-1,text,true,,241250,92657,1,1,http://prestashop.qatestlab.com.ua/ru/,81,0,0
+1632128394739,81,/?rand=1632119156772-487-0,302,Found,Thread Group 1-1,text,true,,305,1150,1,1,http://prestashop.qatestlab.com.ua/?rand=1632119156772,81,0,0
+1632128394821,107,/?rand=1632119156772-487-1,200,OK,Thread Group 1-1,text,true,,11093,1024,1,1,http://prestashop.qatestlab.com.ua/ru/,106,0,0
+1632128394939,37,/?rand=1632119156772-487-2,304,Not Modified,Thread Group 1-1,,true,,197,1133,1,1,http://prestashop.qatestlab.com.ua/img/favicon.ico?1428399122,0,0,0
+1632128394939,77,/?rand=1632119156772-487-3,200,OK,Thread Group 1-1,text,true,,33915,1153,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/global.css,41,0,0
+1632128394939,36,/?rand=1632119156772-487-4,200,OK,Thread Group 1-1,text,true,,535,1161,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/autoload/highdpi.css,36,0,0
+1632128394939,35,/?rand=1632119156772-487-5,200,OK,Thread Group 1-1,text,true,,901,1171,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/autoload/responsive-tables.css,35,0,0
+1632128394939,35,/?rand=1632119156772-487-6,200,OK,Thread Group 1-1,text,true,,2682,1170,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/autoload/uniform.default.css,35,0,0
+1632128394939,35,/?rand=1632119156772-487-7,200,OK,Thread Group 1-1,text,true,,1777,1159,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/fancybox/jquery.fancybox.css,35,0,0
+1632128394974,36,/?rand=1632119156772-487-8,200,OK,Thread Group 1-1,text,true,,469,1175,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockbanner/blockbanner.css,36,0,0
+1632128394974,36,/?rand=1632119156772-487-9,200,OK,Thread Group 1-1,text,true,,2861,1158,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/product_list.css,36,0,0
+1632128394974,37,/?rand=1632119156772-487-10,200,OK,Thread Group 1-1,text,true,,3124,1173,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockcart/blockcart.css,37,0,0
+1632128394975,35,/?rand=1632119156772-487-11,200,OK,Thread Group 1-1,text,true,,1103,1184,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockcategories/blockcategories.css,35,0,0
+1632128394976,36,/?rand=1632119156772-487-12,200,OK,Thread Group 1-1,text,true,,942,1184,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockcurrencies/blockcurrencies.css,36,0,0
+1632128395010,35,/?rand=1632119156772-487-13,304,Not Modified,Thread Group 1-1,,true,,196,1149,1,1,http://prestashop.qatestlab.com.ua/modules/blockfacebook/css/blockfacebook.css,0,0,0
+1632128395010,38,/?rand=1632119156772-487-14,200,OK,Thread Group 1-1,text,true,,923,1182,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocklanguages/blocklanguages.css,38,0,0
+1632128395010,38,/?rand=1632119156772-487-15,200,OK,Thread Group 1-1,text,true,,867,1178,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockcontact/blockcontact.css,38,0,0
+1632128395011,37,/?rand=1632119156772-487-16,200,OK,Thread Group 1-1,text,true,,1164,1184,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocknewsletter/blocknewsletter.css,37,0,0
+1632128395012,37,/?rand=1632119156772-487-17,200,OK,Thread Group 1-1,text,true,,804,1166,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/autocomplete/jquery.autocomplete.css,37,0,0
+1632128395017,37,/?rand=1632119156772-487-18,200,OK,Thread Group 1-1,text,true,,914,1176,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocksearch/blocksearch.css,37,0,0
+1632128395045,39,/?rand=1632119156772-487-19,200,OK,Thread Group 1-1,text,true,,573,1172,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocktags/blocktags.css,39,0,0
+1632128395048,37,/?rand=1632119156772-487-20,200,OK,Thread Group 1-1,text,true,,599,1180,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockuserinfo/blockuserinfo.css,37,0,0
+1632128395048,36,/?rand=1632119156772-487-21,200,OK,Thread Group 1-1,text,true,,477,1175,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockviewed/blockviewed.css,36,0,0
+1632128395049,36,/?rand=1632119156772-487-22,200,OK,Thread Group 1-1,text,true,,1665,1175,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/homeslider/homeslider.css,35,0,0
+1632128395049,37,/?rand=1632119156772-487-23,200,OK,Thread Group 1-1,text,true,,735,1151,1,1,http://prestashop.qatestlab.com.ua/modules/themeconfigurator/css/hooks.css,37,0,0
+1632128395054,38,/?rand=1632119156772-487-24,200,OK,Thread Group 1-1,text,true,,1456,1181,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockwishlist/blockwishlist.css,38,0,0
+1632128395084,35,/?rand=1632119156772-487-25,200,OK,Thread Group 1-1,text,true,,1889,1185,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/productcomments/productcomments.css,35,0,0
+1632128395084,35,/?rand=1632119156772-487-26,304,Not Modified,Thread Group 1-1,,true,,196,1176,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocktopmenu/css/blocktopmenu.css,0,0,0
+1632128395085,35,/?rand=1632119156772-487-27,200,OK,Thread Group 1-1,text,true,,1736,1189,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocktopmenu/css/superfish-modified.css,35,0,0
+1632128395085,35,/?rand=1632119156772-487-28,200,OK,Thread Group 1-1,text,true,,1768,1150,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/cusel.css,35,0,0
+1632128395086,42,/?rand=1632119156772-487-29,200,OK,Thread Group 1-1,text,true,,32436,1161,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/jquery-1.6.2.min.js,40,0,0
+1632128395092,43,/?rand=1632119156772-487-30,200,OK,Thread Group 1-1,text,true,,33751,1144,1,1,http://prestashop.qatestlab.com.ua/js/jquery/jquery-1.11.0.min.js,40,0,0
+1632128395119,36,/?rand=1632119156772-487-31,200,OK,Thread Group 1-1,text,true,,3431,1150,1,1,http://prestashop.qatestlab.com.ua/js/jquery/jquery-migrate-1.2.1.min.js,36,0,0
+1632128395120,35,/?rand=1632119156772-487-32,200,OK,Thread Group 1-1,text,true,,1530,1147,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/jquery.easing.js,35,0,0
+1632128395120,36,/?rand=1632119156772-487-33,200,OK,Thread Group 1-1,text,true,,5883,1124,1,1,http://prestashop.qatestlab.com.ua/js/tools.js,35,0,0
+1632128395120,36,/?rand=1632119156772-487-34,200,OK,Thread Group 1-1,text,true,,4315,1150,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/global.js,36,0,0
+1632128395128,41,/?rand=1632119156772-487-35,200,OK,Thread Group 1-1,text,true,,7594,1169,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/autoload/10-bootstrap.min.js,41,0,0
+1632128395135,37,/?rand=1632119156772-487-36,200,OK,Thread Group 1-1,text,true,,1400,1179,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/autoload/15-jquery.total-storage.min.js,37,0,0
+1632128395155,37,/?rand=1632119156772-487-37,200,OK,Thread Group 1-1,text,true,,8236,1179,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/autoload/15-jquery.uniform-modified.js,37,0,0
+1632128395155,36,/?rand=1632119156772-487-38,200,OK,Thread Group 1-1,text,true,,9002,1158,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/fancybox/jquery.fancybox.js,36,0,0
+1632128395156,35,/?rand=1632119156772-487-39,200,OK,Thread Group 1-1,text,true,,2016,1163,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/products-comparison.js,35,0,0
+1632128395157,36,/?rand=1632119156772-487-40,200,OK,Thread Group 1-1,text,true,,8025,1171,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blockcart/ajax-cart.js,36,0,0
+1632128395170,37,/?rand=1632119156772-487-41,200,OK,Thread Group 1-1,text,true,,1675,1148,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/jquery.scrollTo.js,37,0,0
+1632128395172,37,/?rand=1632119156772-487-42,200,OK,Thread Group 1-1,text,true,,1412,1152,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/jquery.serialScroll.js,37,0,0
+1632128395191,36,/?rand=1632119156772-487-43,200,OK,Thread Group 1-1,text,true,,5492,1158,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/bxslider/jquery.bxslider.js,36,0,0
+1632128395191,36,/?rand=1632119156772-487-44,200,OK,Thread Group 1-1,text,true,,1495,1163,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/tools/treeManagement.js,35,0,0
+1632128395192,35,/?rand=1632119156772-487-45,200,OK,Thread Group 1-1,text,true,,1107,1150,1,1,http://prestashop.qatestlab.com.ua/modules/blockfacebook/blockfacebook.js,35,0,0
+1632128395193,39,/?rand=1632119156772-487-46,200,OK,Thread Group 1-1,text,true,,1206,1182,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blocknewsletter/blocknewsletter.js,39,0,0
+1632128395207,44,/?rand=1632119156772-487-47,200,OK,Thread Group 1-1,text,true,,6828,1166,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/autocomplete/jquery.autocomplete.js,42,0,0
+1632128395210,41,/?rand=1632119156772-487-48,200,OK,Thread Group 1-1,text,true,,1868,1174,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blocksearch/blocksearch.js,41,0,0
+1632128395227,35,/?rand=1632119156772-487-49,200,OK,Thread Group 1-1,text,true,,1272,1175,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/homeslider/js/homeslider.js,35,0,0
+1632128395227,35,/?rand=1632119156772-487-50,200,OK,Thread Group 1-1,text,true,,2904,1182,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blockwishlist/js/ajax-wishlist.js,35,0,0
+1632128395227,35,/?rand=1632119156772-487-51,200,OK,Thread Group 1-1,text,true,,1981,1179,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blocktopmenu/js/hoverIntent.js,35,0,0
+1632128395233,36,/?rand=1632119156772-487-52,200,OK,Thread Group 1-1,text,true,,2661,1186,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blocktopmenu/js/superfish-modified.js,36,0,0
+1632128395251,38,/?rand=1632119156772-487-53,200,OK,Thread Group 1-1,text,true,,1860,1179,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blocktopmenu/js/blocktopmenu.js,38,0,0
+1632128395251,38,/?rand=1632119156772-487-54,200,OK,Thread Group 1-1,text,true,,966,1148,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/index.js,37,0,0
+1632128395263,41,/?rand=1632119156772-487-55,200,OK,Thread Group 1-1,text,true,,4750,1149,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/cusel.js,40,0,0
+1632128395263,41,/?rand=1632119156772-487-56,200,OK,Thread Group 1-1,text,true,,4593,1155,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/jScrollPane.js,41,0,0
+1632128395263,40,/?rand=1632119156772-487-57,200,OK,Thread Group 1-1,text,true,,1337,1160,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/jquery.mousewheel.js,40,0,0
+1632128395270,35,/?rand=1632119156772-487-58,304,Not Modified,Thread Group 1-1,,true,,198,1142,1,1,http://prestashop.qatestlab.com.ua/modules/blockbanner/img/sale70.png,0,0,0
+1632128395289,38,/?rand=1632119156772-487-59,304,Not Modified,Thread Group 1-1,,true,,198,1120,1,1,http://prestashop.qatestlab.com.ua/img/logo.jpg,0,0,0
+1632128395289,38,/?rand=1632119156772-487-60,304,Not Modified,Thread Group 1-1,,true,,198,1127,1,1,http://prestashop.qatestlab.com.ua/img/c/3-0_thumb.jpg,0,0,0
+1632128395304,34,/?rand=1632119156772-487-61,304,Not Modified,Thread Group 1-1,,true,,198,1127,1,1,http://prestashop.qatestlab.com.ua/img/c/3-1_thumb.jpg,0,0,0
+1632128395304,34,/?rand=1632119156772-487-62,304,Not Modified,Thread Group 1-1,,true,,199,1147,1,1,http://prestashop.qatestlab.com.ua/modules/homeslider/images/sample-1.jpg,0,0,0
+1632128395304,34,/?rand=1632119156772-487-63,304,Not Modified,Thread Group 1-1,,true,,199,1147,1,1,http://prestashop.qatestlab.com.ua/modules/homeslider/images/sample-2.jpg,0,0,0
+1632128395306,34,/?rand=1632119156772-487-64,304,Not Modified,Thread Group 1-1,,true,,198,1146,1,1,http://prestashop.qatestlab.com.ua/modules/homeslider/images/sample-3.jpg,0,0,0
+1632128395327,36,/?rand=1632119156772-487-65,304,Not Modified,Thread Group 1-1,,true,,198,1153,1,1,http://prestashop.qatestlab.com.ua/modules/themeconfigurator/img/banner-img6.jpg,0,0,0
+1632128395327,36,/?rand=1632119156772-487-66,304,Not Modified,Thread Group 1-1,,true,,198,1153,1,1,http://prestashop.qatestlab.com.ua/modules/themeconfigurator/img/banner-img7.jpg,0,0,0
+1632128395338,42,/?rand=1632119156772-487-67,304,Not Modified,Thread Group 1-1,,true,,198,1153,1,1,http://prestashop.qatestlab.com.ua/1-home_default/faded-short-sleeve-tshirts.jpg,0,0,0
+1632128395338,42,/?rand=1632119156772-487-68,304,Not Modified,Thread Group 1-1,,true,,198,1133,1,1,http://prestashop.qatestlab.com.ua/7-home_default/blouse.jpg,0,0,0
+1632128395339,41,/?rand=1632119156772-487-69,304,Not Modified,Thread Group 1-1,,true,,198,1140,1,1,http://prestashop.qatestlab.com.ua/8-home_default/printed-dress.jpg,0,0,0
+1632128395341,39,/?rand=1632119156772-487-70,304,Not Modified,Thread Group 1-1,,true,,198,1141,1,1,http://prestashop.qatestlab.com.ua/10-home_default/printed-dress.jpg,0,0,0
+1632128395364,37,/?rand=1632119156772-487-71,304,Not Modified,Thread Group 1-1,,true,,198,1148,1,1,http://prestashop.qatestlab.com.ua/12-home_default/printed-summer-dress.jpg,0,0,0
+1632128395364,37,/?rand=1632119156772-487-72,304,Not Modified,Thread Group 1-1,,true,,198,1148,1,1,http://prestashop.qatestlab.com.ua/16-home_default/printed-summer-dress.jpg,0,0,0
+1632128395380,35,/?rand=1632119156772-487-73,304,Not Modified,Thread Group 1-1,,true,,198,1149,1,1,http://prestashop.qatestlab.com.ua/20-home_default/printed-chiffon-dress.jpg,0,0,0
+1632128395380,34,/?rand=1632119156772-487-74,304,Not Modified,Thread Group 1-1,,true,,198,1153,1,1,http://prestashop.qatestlab.com.ua/24-home_default/black-blouse-with-flowers.jpg,0,0,0
+1632128395380,34,/?rand=1632119156772-487-75,304,Not Modified,Thread Group 1-1,,true,,198,1153,1,1,http://prestashop.qatestlab.com.ua/modules/themeconfigurator/img/banner-img1.jpg,0,0,0
+1632128395380,35,/?rand=1632119156772-487-76,304,Not Modified,Thread Group 1-1,,true,,198,1153,1,1,http://prestashop.qatestlab.com.ua/modules/themeconfigurator/img/banner-img2.jpg,0,0,0
+1632128395401,37,/?rand=1632119156772-487-77,304,Not Modified,Thread Group 1-1,,true,,198,1153,1,1,http://prestashop.qatestlab.com.ua/modules/themeconfigurator/img/banner-img3.jpg,0,0,0
+1632128395401,37,/?rand=1632119156772-487-78,304,Not Modified,Thread Group 1-1,,true,,198,1153,1,1,http://prestashop.qatestlab.com.ua/modules/themeconfigurator/img/banner-img4.jpg,0,0,0
+1632128395415,35,/?rand=1632119156772-487-79,304,Not Modified,Thread Group 1-1,,true,,198,1153,1,1,http://prestashop.qatestlab.com.ua/modules/themeconfigurator/img/banner-img5.jpg,0,0,0
+1632128394738,711,add_product_to_card,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,241250,92657,1,1,null,81,4,0
+1632128395454,494,/ru/order-489,200,OK,Thread Group 1-1,text,true,,237453,61975,1,1,http://prestashop.qatestlab.com.ua/ru/order,97,0,0
+1632128395454,98,/ru/order-489-0,200,OK,Thread Group 1-1,text,true,,7276,920,1,1,http://prestashop.qatestlab.com.ua/ru/order,97,0,0
+1632128395557,35,/ru/order-489-1,304,Not Modified,Thread Group 1-1,,true,,197,1024,1,1,http://prestashop.qatestlab.com.ua/img/favicon.ico?1428399122,0,0,0
+1632128395557,43,/ru/order-489-2,200,OK,Thread Group 1-1,text,true,,33915,1044,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/global.css,40,0,0
+1632128395558,37,/ru/order-489-3,200,OK,Thread Group 1-1,text,true,,535,1052,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/autoload/highdpi.css,37,0,0
+1632128395558,36,/ru/order-489-4,200,OK,Thread Group 1-1,text,true,,901,1062,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/autoload/responsive-tables.css,36,0,0
+1632128395558,38,/ru/order-489-5,200,OK,Thread Group 1-1,text,true,,2682,1061,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/autoload/uniform.default.css,38,0,0
+1632128395558,35,/ru/order-489-6,200,OK,Thread Group 1-1,text,true,,1777,1050,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/fancybox/jquery.fancybox.css,35,0,0
+1632128395593,35,/ru/order-489-7,200,OK,Thread Group 1-1,text,true,,525,1045,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/addresses.css,35,0,0
+1632128395594,39,/ru/order-489-8,200,OK,Thread Group 1-1,text,true,,469,1066,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockbanner/blockbanner.css,39,0,0
+1632128395594,39,/ru/order-489-9,200,OK,Thread Group 1-1,text,true,,3124,1064,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockcart/blockcart.css,39,0,0
+1632128395596,37,/ru/order-489-10,200,OK,Thread Group 1-1,text,true,,1103,1075,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockcategories/blockcategories.css,37,0,0
+1632128395596,37,/ru/order-489-11,200,OK,Thread Group 1-1,text,true,,942,1075,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockcurrencies/blockcurrencies.css,37,0,0
+1632128395600,35,/ru/order-489-12,200,OK,Thread Group 1-1,text,true,,923,1073,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocklanguages/blocklanguages.css,35,0,0
+1632128395628,39,/ru/order-489-13,200,OK,Thread Group 1-1,text,true,,867,1069,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockcontact/blockcontact.css,39,0,0
+1632128395633,42,/ru/order-489-14,200,OK,Thread Group 1-1,text,true,,1164,1075,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocknewsletter/blocknewsletter.css,42,0,0
+1632128395633,37,/ru/order-489-15,200,OK,Thread Group 1-1,text,true,,804,1057,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/autocomplete/jquery.autocomplete.css,37,0,0
+1632128395633,37,/ru/order-489-16,200,OK,Thread Group 1-1,text,true,,2861,1049,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/product_list.css,37,0,0
+1632128395634,35,/ru/order-489-17,200,OK,Thread Group 1-1,text,true,,914,1067,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocksearch/blocksearch.css,35,0,0
+1632128395635,35,/ru/order-489-18,200,OK,Thread Group 1-1,text,true,,573,1063,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocktags/blocktags.css,35,0,0
+1632128395668,35,/ru/order-489-19,200,OK,Thread Group 1-1,text,true,,599,1071,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockuserinfo/blockuserinfo.css,35,0,0
+1632128395670,34,/ru/order-489-20,200,OK,Thread Group 1-1,text,true,,477,1066,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockviewed/blockviewed.css,34,0,0
+1632128395671,40,/ru/order-489-21,200,OK,Thread Group 1-1,text,true,,735,1042,1,1,http://prestashop.qatestlab.com.ua/modules/themeconfigurator/css/hooks.css,40,0,0
+1632128395671,36,/ru/order-489-22,200,OK,Thread Group 1-1,text,true,,1456,1072,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockwishlist/blockwishlist.css,36,0,0
+1632128395672,35,/ru/order-489-23,200,OK,Thread Group 1-1,text,true,,1889,1076,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/productcomments/productcomments.css,35,0,0
+1632128395676,42,/ru/order-489-24,304,Not Modified,Thread Group 1-1,,true,,196,1067,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocktopmenu/css/blocktopmenu.css,0,0,0
+1632128395703,35,/ru/order-489-25,200,OK,Thread Group 1-1,text,true,,1736,1080,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocktopmenu/css/superfish-modified.css,35,0,0
+1632128395705,34,/ru/order-489-26,200,OK,Thread Group 1-1,text,true,,1768,1041,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/cusel.css,34,0,0
+1632128395707,76,/ru/order-489-27,200,OK,Thread Group 1-1,text,true,,32436,1052,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/jquery-1.6.2.min.js,41,0,0
+1632128395707,78,/ru/order-489-28,200,OK,Thread Group 1-1,text,true,,33751,1035,1,1,http://prestashop.qatestlab.com.ua/js/jquery/jquery-1.11.0.min.js,43,0,0
+1632128395711,41,/ru/order-489-29,200,OK,Thread Group 1-1,text,true,,3431,1041,1,1,http://prestashop.qatestlab.com.ua/js/jquery/jquery-migrate-1.2.1.min.js,41,0,0
+1632128395718,37,/ru/order-489-30,200,OK,Thread Group 1-1,text,true,,1530,1038,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/jquery.easing.js,37,0,0
+1632128395739,35,/ru/order-489-31,200,OK,Thread Group 1-1,text,true,,5883,1015,1,1,http://prestashop.qatestlab.com.ua/js/tools.js,35,0,0
+1632128395740,34,/ru/order-489-32,200,OK,Thread Group 1-1,text,true,,4315,1041,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/global.js,34,0,0
+1632128395752,38,/ru/order-489-33,200,OK,Thread Group 1-1,text,true,,7594,1060,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/autoload/10-bootstrap.min.js,38,0,0
+1632128395756,37,/ru/order-489-34,200,OK,Thread Group 1-1,text,true,,1400,1070,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/autoload/15-jquery.total-storage.min.js,37,0,0
+1632128395774,38,/ru/order-489-35,200,OK,Thread Group 1-1,text,true,,8236,1070,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/autoload/15-jquery.uniform-modified.js,37,0,0
+1632128395775,35,/ru/order-489-36,200,OK,Thread Group 1-1,text,true,,9002,1049,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/fancybox/jquery.fancybox.js,35,0,0
+1632128395783,35,/ru/order-489-37,200,OK,Thread Group 1-1,text,true,,2016,1054,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/products-comparison.js,35,0,0
+1632128395785,36,/ru/order-489-38,200,OK,Thread Group 1-1,text,true,,1360,1040,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/jquery.typewatch.js,36,0,0
+1632128395790,38,/ru/order-489-39,200,OK,Thread Group 1-1,text,true,,7212,955,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/cart-summary.js,38,0,0
+1632128395793,40,/ru/order-489-40,200,OK,Thread Group 1-1,text,true,,8025,1062,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blockcart/ajax-cart.js,39,0,0
+1632128395811,38,/ru/order-489-41,200,OK,Thread Group 1-1,text,true,,1675,1039,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/jquery.scrollTo.js,38,0,0
+1632128395812,37,/ru/order-489-42,200,OK,Thread Group 1-1,text,true,,1412,1043,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/jquery.serialScroll.js,37,0,0
+1632128395818,36,/ru/order-489-43,200,OK,Thread Group 1-1,text,true,,5492,1049,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/bxslider/jquery.bxslider.js,36,0,0
+1632128395821,35,/ru/order-489-44,200,OK,Thread Group 1-1,text,true,,1495,1054,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/tools/treeManagement.js,35,0,0
+1632128395829,40,/ru/order-489-45,200,OK,Thread Group 1-1,text,true,,1206,1073,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blocknewsletter/blocknewsletter.js,40,0,0
+1632128395833,38,/ru/order-489-46,200,OK,Thread Group 1-1,text,true,,6828,1057,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/autocomplete/jquery.autocomplete.js,38,0,0
+1632128395849,35,/ru/order-489-47,200,OK,Thread Group 1-1,text,true,,1868,1065,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blocksearch/blocksearch.js,35,0,0
+1632128395849,36,/ru/order-489-48,200,OK,Thread Group 1-1,text,true,,2904,1073,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blockwishlist/js/ajax-wishlist.js,36,0,0
+1632128395855,34,/ru/order-489-49,200,OK,Thread Group 1-1,text,true,,1981,1070,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blocktopmenu/js/hoverIntent.js,34,0,0
+1632128395857,36,/ru/order-489-50,200,OK,Thread Group 1-1,text,true,,2661,1077,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blocktopmenu/js/superfish-modified.js,36,0,0
+1632128395870,37,/ru/order-489-51,200,OK,Thread Group 1-1,text,true,,1860,1070,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blocktopmenu/js/blocktopmenu.js,37,0,0
+1632128395872,37,/ru/order-489-52,200,OK,Thread Group 1-1,text,true,,4750,1040,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/cusel.js,37,0,0
+1632128395885,35,/ru/order-489-53,200,OK,Thread Group 1-1,text,true,,4593,1046,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/jScrollPane.js,35,0,0
+1632128395885,35,/ru/order-489-54,200,OK,Thread Group 1-1,text,true,,1337,1051,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/jquery.mousewheel.js,34,0,0
+1632128395890,35,/ru/order-489-55,304,Not Modified,Thread Group 1-1,,true,,198,1033,1,1,http://prestashop.qatestlab.com.ua/modules/blockbanner/img/sale70.png,0,0,0
+1632128395893,35,/ru/order-489-56,304,Not Modified,Thread Group 1-1,,true,,198,1011,1,1,http://prestashop.qatestlab.com.ua/img/logo.jpg,0,0,0
+1632128395908,36,/ru/order-489-57,304,Not Modified,Thread Group 1-1,,true,,198,1018,1,1,http://prestashop.qatestlab.com.ua/img/c/3-0_thumb.jpg,0,0,0
+1632128395910,38,/ru/order-489-58,304,Not Modified,Thread Group 1-1,,true,,198,1018,1,1,http://prestashop.qatestlab.com.ua/img/c/3-1_thumb.jpg,0,0,0
+1632128395952,496,/ru/order-553,200,OK,Thread Group 1-1,text,true,,231784,60885,1,1,http://prestashop.qatestlab.com.ua/ru/order?step=1,98,0,0
+1632128395952,99,/ru/order-553-0,200,OK,Thread Group 1-1,text,true,,7275,926,1,1,http://prestashop.qatestlab.com.ua/ru/order?step=1,98,0,0
+1632128396061,39,/ru/order-553-1,304,Not Modified,Thread Group 1-1,,true,,197,1023,1,1,http://prestashop.qatestlab.com.ua/img/favicon.ico?1428399122,0,0,0
+1632128396061,42,/ru/order-553-2,200,OK,Thread Group 1-1,text,true,,33915,1043,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/global.css,39,0,0
+1632128396061,39,/ru/order-553-3,200,OK,Thread Group 1-1,text,true,,535,1051,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/autoload/highdpi.css,39,0,0
+1632128396061,36,/ru/order-553-4,200,OK,Thread Group 1-1,text,true,,901,1061,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/autoload/responsive-tables.css,36,0,0
+1632128396062,35,/ru/order-553-5,200,OK,Thread Group 1-1,text,true,,2682,1060,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/autoload/uniform.default.css,35,0,0
+1632128396062,35,/ru/order-553-6,200,OK,Thread Group 1-1,text,true,,1777,1049,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/fancybox/jquery.fancybox.css,35,0,0
+1632128396098,35,/ru/order-553-7,200,OK,Thread Group 1-1,text,true,,525,1044,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/addresses.css,35,0,0
+1632128396098,35,/ru/order-553-8,200,OK,Thread Group 1-1,text,true,,469,1065,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockbanner/blockbanner.css,35,0,0
+1632128396098,35,/ru/order-553-9,200,OK,Thread Group 1-1,text,true,,3124,1063,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockcart/blockcart.css,35,0,0
+1632128396101,37,/ru/order-553-10,200,OK,Thread Group 1-1,text,true,,1103,1074,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockcategories/blockcategories.css,37,0,0
+1632128396101,37,/ru/order-553-11,200,OK,Thread Group 1-1,text,true,,942,1074,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockcurrencies/blockcurrencies.css,37,0,0
+1632128396103,35,/ru/order-553-12,200,OK,Thread Group 1-1,text,true,,923,1072,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocklanguages/blocklanguages.css,35,0,0
+1632128396134,36,/ru/order-553-13,200,OK,Thread Group 1-1,text,true,,867,1068,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockcontact/blockcontact.css,36,0,0
+1632128396134,36,/ru/order-553-14,200,OK,Thread Group 1-1,text,true,,1164,1074,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocknewsletter/blocknewsletter.css,35,0,0
+1632128396134,36,/ru/order-553-15,200,OK,Thread Group 1-1,text,true,,804,1056,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/autocomplete/jquery.autocomplete.css,35,0,0
+1632128396138,41,/ru/order-553-16,200,OK,Thread Group 1-1,text,true,,2861,1048,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/product_list.css,41,0,0
+1632128396138,35,/ru/order-553-17,200,OK,Thread Group 1-1,text,true,,914,1066,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocksearch/blocksearch.css,35,0,0
+1632128396139,40,/ru/order-553-18,200,OK,Thread Group 1-1,text,true,,573,1062,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocktags/blocktags.css,40,0,0
+1632128396171,35,/ru/order-553-19,200,OK,Thread Group 1-1,text,true,,599,1070,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockuserinfo/blockuserinfo.css,35,0,0
+1632128396171,35,/ru/order-553-20,200,OK,Thread Group 1-1,text,true,,477,1065,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockviewed/blockviewed.css,34,0,0
+1632128396171,35,/ru/order-553-21,200,OK,Thread Group 1-1,text,true,,735,1041,1,1,http://prestashop.qatestlab.com.ua/modules/themeconfigurator/css/hooks.css,34,0,0
+1632128396174,35,/ru/order-553-22,200,OK,Thread Group 1-1,text,true,,1456,1071,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockwishlist/blockwishlist.css,35,0,0
+1632128396180,37,/ru/order-553-23,200,OK,Thread Group 1-1,text,true,,1889,1075,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/productcomments/productcomments.css,37,0,0
+1632128396180,36,/ru/order-553-24,304,Not Modified,Thread Group 1-1,,true,,196,1066,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocktopmenu/css/blocktopmenu.css,0,0,0
+1632128396206,35,/ru/order-553-25,200,OK,Thread Group 1-1,text,true,,1736,1079,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocktopmenu/css/superfish-modified.css,35,0,0
+1632128396206,35,/ru/order-553-26,200,OK,Thread Group 1-1,text,true,,1768,1040,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/cusel.css,35,0,0
+1632128396207,44,/ru/order-553-27,200,OK,Thread Group 1-1,text,true,,32436,1051,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/jquery-1.6.2.min.js,38,0,0
+1632128396209,44,/ru/order-553-28,200,OK,Thread Group 1-1,text,true,,33751,1034,1,1,http://prestashop.qatestlab.com.ua/js/jquery/jquery-1.11.0.min.js,42,0,0
+1632128396217,37,/ru/order-553-29,200,OK,Thread Group 1-1,text,true,,3431,1040,1,1,http://prestashop.qatestlab.com.ua/js/jquery/jquery-migrate-1.2.1.min.js,37,0,0
+1632128396217,37,/ru/order-553-30,200,OK,Thread Group 1-1,text,true,,1530,1037,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/jquery.easing.js,37,0,0
+1632128396242,36,/ru/order-553-31,200,OK,Thread Group 1-1,text,true,,5883,1014,1,1,http://prestashop.qatestlab.com.ua/js/tools.js,35,0,0
+1632128396242,35,/ru/order-553-32,200,OK,Thread Group 1-1,text,true,,4315,1040,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/global.js,35,0,0
+1632128396251,37,/ru/order-553-33,200,OK,Thread Group 1-1,text,true,,7594,1059,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/autoload/10-bootstrap.min.js,37,0,0
+1632128396253,36,/ru/order-553-34,200,OK,Thread Group 1-1,text,true,,1395,1069,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/autoload/15-jquery.total-storage.min.js,35,0,0
+1632128396254,39,/ru/order-553-35,200,OK,Thread Group 1-1,text,true,,8236,1069,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/autoload/15-jquery.uniform-modified.js,38,0,0
+1632128396254,38,/ru/order-553-36,200,OK,Thread Group 1-1,text,true,,9002,1048,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/fancybox/jquery.fancybox.js,37,0,0
+1632128396278,36,/ru/order-553-37,200,OK,Thread Group 1-1,text,true,,2016,1053,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/products-comparison.js,36,0,0
+1632128396278,36,/ru/order-553-38,200,OK,Thread Group 1-1,text,true,,2924,955,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/order-address.js,36,0,0
+1632128396289,37,/ru/order-553-39,200,OK,Thread Group 1-1,text,true,,8025,1061,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blockcart/ajax-cart.js,37,0,0
+1632128396290,73,/ru/order-553-40,200,OK,Thread Group 1-1,text,true,,1675,1038,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/jquery.scrollTo.js,73,0,36
+1632128396293,39,/ru/order-553-41,200,OK,Thread Group 1-1,text,true,,1412,1042,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/jquery.serialScroll.js,39,0,0
+1632128396294,39,/ru/order-553-42,200,OK,Thread Group 1-1,text,true,,5492,1048,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/bxslider/jquery.bxslider.js,38,0,0
+1632128396314,36,/ru/order-553-43,200,OK,Thread Group 1-1,text,true,,1495,1053,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/tools/treeManagement.js,36,0,0
+1632128396315,35,/ru/order-553-44,200,OK,Thread Group 1-1,text,true,,1201,1072,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blocknewsletter/blocknewsletter.js,35,0,0
+1632128396327,37,/ru/order-553-45,200,OK,Thread Group 1-1,text,true,,6828,1056,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/autocomplete/jquery.autocomplete.js,36,0,0
+1632128396333,38,/ru/order-553-46,200,OK,Thread Group 1-1,text,true,,1868,1064,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blocksearch/blocksearch.js,37,0,0
+1632128396334,37,/ru/order-553-47,200,OK,Thread Group 1-1,text,true,,2904,1072,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blockwishlist/js/ajax-wishlist.js,37,0,0
+1632128396350,74,/ru/order-553-48,200,OK,Thread Group 1-1,text,true,,1981,1069,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blocktopmenu/js/hoverIntent.js,74,0,36
+1632128396350,36,/ru/order-553-49,200,OK,Thread Group 1-1,text,true,,2661,1076,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blocktopmenu/js/superfish-modified.js,36,0,0
+1632128396364,36,/ru/order-553-50,200,OK,Thread Group 1-1,text,true,,1860,1069,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blocktopmenu/js/blocktopmenu.js,36,0,0
+1632128396364,40,/ru/order-553-51,200,OK,Thread Group 1-1,text,true,,4750,1039,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/cusel.js,39,0,0
+1632128396371,38,/ru/order-553-52,200,OK,Thread Group 1-1,text,true,,4588,1045,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/jScrollPane.js,38,0,0
+1632128396372,37,/ru/order-553-53,200,OK,Thread Group 1-1,text,true,,1337,1050,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/jquery.mousewheel.js,37,0,0
+1632128396387,35,/ru/order-553-54,304,Not Modified,Thread Group 1-1,,true,,198,1032,1,1,http://prestashop.qatestlab.com.ua/modules/blockbanner/img/sale70.png,0,0,0
+1632128396401,36,/ru/order-553-55,304,Not Modified,Thread Group 1-1,,true,,193,1010,1,1,http://prestashop.qatestlab.com.ua/img/logo.jpg,0,0,0
+1632128396404,37,/ru/order-553-56,304,Not Modified,Thread Group 1-1,,true,,198,1017,1,1,http://prestashop.qatestlab.com.ua/img/c/3-0_thumb.jpg,0,0,0
+1632128396410,38,/ru/order-553-57,304,Not Modified,Thread Group 1-1,,true,,198,1017,1,1,http://prestashop.qatestlab.com.ua/img/c/3-1_thumb.jpg,0,0,0
+1632128396449,512,/ru/order-617,200,OK,Thread Group 1-1,text,true,,237443,67998,1,1,http://prestashop.qatestlab.com.ua/ru/order,99,0,0
+1632128396449,99,/ru/order-617-0,200,OK,Thread Group 1-1,text,true,,7276,1109,1,1,http://prestashop.qatestlab.com.ua/ru/order,99,0,0
+1632128396552,37,/ru/order-617-1,304,Not Modified,Thread Group 1-1,,true,,197,1123,1,1,http://prestashop.qatestlab.com.ua/img/favicon.ico?1428399122,0,0,0
+1632128396552,42,/ru/order-617-2,200,OK,Thread Group 1-1,text,true,,33915,1143,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/global.css,39,0,0
+1632128396552,69,/ru/order-617-3,200,OK,Thread Group 1-1,text,true,,535,1151,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/autoload/highdpi.css,69,0,34
+1632128396552,37,/ru/order-617-4,200,OK,Thread Group 1-1,text,true,,901,1161,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/autoload/responsive-tables.css,37,0,0
+1632128396552,38,/ru/order-617-5,200,OK,Thread Group 1-1,text,true,,2682,1160,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/autoload/uniform.default.css,38,0,0
+1632128396552,68,/ru/order-617-6,200,OK,Thread Group 1-1,text,true,,1777,1149,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/fancybox/jquery.fancybox.css,68,0,33
+1632128396589,38,/ru/order-617-7,200,OK,Thread Group 1-1,text,true,,525,1144,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/addresses.css,38,0,0
+1632128396591,37,/ru/order-617-8,200,OK,Thread Group 1-1,text,true,,469,1165,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockbanner/blockbanner.css,37,0,0
+1632128396591,37,/ru/order-617-9,200,OK,Thread Group 1-1,text,true,,3119,1163,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockcart/blockcart.css,37,0,0
+1632128396594,38,/ru/order-617-10,200,OK,Thread Group 1-1,text,true,,1103,1174,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockcategories/blockcategories.css,38,0,0
+1632128396621,35,/ru/order-617-11,200,OK,Thread Group 1-1,text,true,,942,1174,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockcurrencies/blockcurrencies.css,35,0,0
+1632128396622,35,/ru/order-617-12,200,OK,Thread Group 1-1,text,true,,923,1172,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocklanguages/blocklanguages.css,35,0,0
+1632128396627,38,/ru/order-617-13,200,OK,Thread Group 1-1,text,true,,867,1168,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockcontact/blockcontact.css,38,0,0
+1632128396628,37,/ru/order-617-14,200,OK,Thread Group 1-1,text,true,,1164,1174,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocknewsletter/blocknewsletter.css,37,0,0
+1632128396629,72,/ru/order-617-15,200,OK,Thread Group 1-1,text,true,,804,1156,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/autocomplete/jquery.autocomplete.css,72,0,36
+1632128396633,35,/ru/order-617-16,200,OK,Thread Group 1-1,text,true,,2861,1148,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/product_list.css,35,0,0
+1632128396656,36,/ru/order-617-17,200,OK,Thread Group 1-1,text,true,,914,1166,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocksearch/blocksearch.css,36,0,0
+1632128396658,36,/ru/order-617-18,200,OK,Thread Group 1-1,text,true,,573,1162,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocktags/blocktags.css,36,0,0
+1632128396666,36,/ru/order-617-19,200,OK,Thread Group 1-1,text,true,,599,1170,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockuserinfo/blockuserinfo.css,36,0,0
+1632128396666,36,/ru/order-617-20,200,OK,Thread Group 1-1,text,true,,477,1165,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockviewed/blockviewed.css,36,0,0
+1632128396669,36,/ru/order-617-21,200,OK,Thread Group 1-1,text,true,,735,1141,1,1,http://prestashop.qatestlab.com.ua/modules/themeconfigurator/css/hooks.css,36,0,0
+1632128396693,35,/ru/order-617-22,200,OK,Thread Group 1-1,text,true,,1456,1171,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockwishlist/blockwishlist.css,35,0,0
+1632128396694,38,/ru/order-617-23,200,OK,Thread Group 1-1,text,true,,1889,1175,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/productcomments/productcomments.css,38,0,0
+1632128396702,35,/ru/order-617-24,304,Not Modified,Thread Group 1-1,,true,,196,1166,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocktopmenu/css/blocktopmenu.css,0,0,0
+1632128396703,37,/ru/order-617-25,200,OK,Thread Group 1-1,text,true,,1736,1179,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocktopmenu/css/superfish-modified.css,37,0,0
+1632128396703,37,/ru/order-617-26,200,OK,Thread Group 1-1,text,true,,1768,1140,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/cusel.css,37,0,0
+1632128396706,43,/ru/order-617-27,200,OK,Thread Group 1-1,text,true,,32436,1151,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/jquery-1.6.2.min.js,37,0,0
+1632128396729,75,/ru/order-617-28,200,OK,Thread Group 1-1,text,true,,33751,1134,1,1,http://prestashop.qatestlab.com.ua/js/jquery/jquery-1.11.0.min.js,40,0,0
+1632128396733,36,/ru/order-617-29,200,OK,Thread Group 1-1,text,true,,3431,1140,1,1,http://prestashop.qatestlab.com.ua/js/jquery/jquery-migrate-1.2.1.min.js,35,0,0
+1632128396738,35,/ru/order-617-30,200,OK,Thread Group 1-1,text,true,,1530,1137,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/jquery.easing.js,35,0,0
+1632128396741,38,/ru/order-617-31,200,OK,Thread Group 1-1,text,true,,5883,1114,1,1,http://prestashop.qatestlab.com.ua/js/tools.js,37,0,0
+1632128396741,37,/ru/order-617-32,200,OK,Thread Group 1-1,text,true,,4315,1140,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/global.js,37,0,0
+1632128396750,36,/ru/order-617-33,200,OK,Thread Group 1-1,text,true,,7594,1159,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/autoload/10-bootstrap.min.js,36,0,0
+1632128396769,36,/ru/order-617-34,200,OK,Thread Group 1-1,text,true,,1400,1169,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/autoload/15-jquery.total-storage.min.js,36,0,0
+1632128396773,37,/ru/order-617-35,200,OK,Thread Group 1-1,text,true,,8236,1169,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/autoload/15-jquery.uniform-modified.js,37,0,0
+1632128396779,38,/ru/order-617-36,200,OK,Thread Group 1-1,text,true,,9002,1148,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/fancybox/jquery.fancybox.js,37,0,0
+1632128396779,37,/ru/order-617-37,200,OK,Thread Group 1-1,text,true,,2016,1153,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/products-comparison.js,37,0,0
+1632128396786,36,/ru/order-617-38,200,OK,Thread Group 1-1,text,true,,1360,1139,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/jquery.typewatch.js,35,0,0
+1632128396805,36,/ru/order-617-39,200,OK,Thread Group 1-1,text,true,,7212,1146,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/cart-summary.js,35,0,0
+1632128396805,37,/ru/order-617-40,200,OK,Thread Group 1-1,text,true,,8025,1161,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blockcart/ajax-cart.js,36,0,0
+1632128396811,37,/ru/order-617-41,200,OK,Thread Group 1-1,text,true,,1675,1138,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/jquery.scrollTo.js,37,0,0
+1632128396816,37,/ru/order-617-42,200,OK,Thread Group 1-1,text,true,,1412,1142,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/jquery.serialScroll.js,37,0,0
+1632128396817,37,/ru/order-617-43,200,OK,Thread Group 1-1,text,true,,5492,1148,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/bxslider/jquery.bxslider.js,37,0,0
+1632128396822,35,/ru/order-617-44,200,OK,Thread Group 1-1,text,true,,1495,1153,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/tools/treeManagement.js,35,0,0
+1632128396841,35,/ru/order-617-45,200,OK,Thread Group 1-1,text,true,,1206,1172,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blocknewsletter/blocknewsletter.js,35,0,0
+1632128396842,40,/ru/order-617-46,200,OK,Thread Group 1-1,text,true,,6828,1156,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/autocomplete/jquery.autocomplete.js,40,0,0
+1632128396849,35,/ru/order-617-47,200,OK,Thread Group 1-1,text,true,,1868,1164,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blocksearch/blocksearch.js,35,0,0
+1632128396854,37,/ru/order-617-48,200,OK,Thread Group 1-1,text,true,,2904,1172,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blockwishlist/js/ajax-wishlist.js,37,0,0
+1632128396855,37,/ru/order-617-49,200,OK,Thread Group 1-1,text,true,,1981,1169,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blocktopmenu/js/hoverIntent.js,37,0,0
+1632128396857,35,/ru/order-617-50,200,OK,Thread Group 1-1,text,true,,2656,1176,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blocktopmenu/js/superfish-modified.js,35,0,0
+1632128396876,35,/ru/order-617-51,200,OK,Thread Group 1-1,text,true,,1860,1169,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blocktopmenu/js/blocktopmenu.js,35,0,0
+1632128396883,36,/ru/order-617-52,200,OK,Thread Group 1-1,text,true,,4750,1139,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/cusel.js,35,0,0
+1632128396885,38,/ru/order-617-53,200,OK,Thread Group 1-1,text,true,,4593,1145,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/jScrollPane.js,38,0,0
+1632128396891,38,/ru/order-617-54,200,OK,Thread Group 1-1,text,true,,1337,1150,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/jquery.mousewheel.js,37,0,0
+1632128396892,35,/ru/order-617-55,304,Not Modified,Thread Group 1-1,,true,,198,1132,1,1,http://prestashop.qatestlab.com.ua/modules/blockbanner/img/sale70.png,0,0,0
+1632128396892,69,/ru/order-617-56,304,Not Modified,Thread Group 1-1,,true,,198,1110,1,1,http://prestashop.qatestlab.com.ua/img/logo.jpg,0,0,34
+1632128396912,36,/ru/order-617-57,304,Not Modified,Thread Group 1-1,,true,,198,1117,1,1,http://prestashop.qatestlab.com.ua/img/c/3-0_thumb.jpg,0,0,0
+1632128396919,35,/ru/order-617-58,304,Not Modified,Thread Group 1-1,,true,,198,1117,1,1,http://prestashop.qatestlab.com.ua/img/c/3-1_thumb.jpg,0,0,0
+1632128396962,534,/ru/order?multi-shipping=-683,200,OK,Thread Group 1-1,text,true,,228876,65326,1,1,http://prestashop.qatestlab.com.ua/ru/order?multi-shipping=,117,0,0
+1632128396962,118,/ru/order?multi-shipping=-683-0,200,OK,Thread Group 1-1,text,true,,7271,1114,1,1,http://prestashop.qatestlab.com.ua/ru/order?multi-shipping=,117,0,0
+1632128397091,35,/ru/order?multi-shipping=-683-1,304,Not Modified,Thread Group 1-1,,true,,197,1116,1,1,http://prestashop.qatestlab.com.ua/img/favicon.ico?1428399122,0,0,0
+1632128397091,77,/ru/order?multi-shipping=-683-2,200,OK,Thread Group 1-1,text,true,,33915,1136,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/global.css,42,0,0
+1632128397091,35,/ru/order?multi-shipping=-683-3,200,OK,Thread Group 1-1,text,true,,535,1144,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/autoload/highdpi.css,35,0,0
+1632128397091,39,/ru/order?multi-shipping=-683-4,200,OK,Thread Group 1-1,text,true,,901,1154,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/autoload/responsive-tables.css,39,0,0
+1632128397091,42,/ru/order?multi-shipping=-683-5,200,OK,Thread Group 1-1,text,true,,2682,1153,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/autoload/uniform.default.css,41,0,0
+1632128397091,78,/ru/order?multi-shipping=-683-6,200,OK,Thread Group 1-1,text,true,,1777,1142,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/fancybox/jquery.fancybox.css,78,0,39
+1632128397127,35,/ru/order?multi-shipping=-683-7,200,OK,Thread Group 1-1,text,true,,525,1137,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/addresses.css,35,0,0
+1632128397127,35,/ru/order?multi-shipping=-683-8,200,OK,Thread Group 1-1,text,true,,469,1158,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockbanner/blockbanner.css,35,0,0
+1632128397131,38,/ru/order?multi-shipping=-683-9,200,OK,Thread Group 1-1,text,true,,3124,1156,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockcart/blockcart.css,38,0,0
+1632128397133,37,/ru/order?multi-shipping=-683-10,200,OK,Thread Group 1-1,text,true,,1103,1167,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockcategories/blockcategories.css,37,0,0
+1632128397162,35,/ru/order?multi-shipping=-683-11,200,OK,Thread Group 1-1,text,true,,942,1167,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockcurrencies/blockcurrencies.css,35,0,0
+1632128397163,35,/ru/order?multi-shipping=-683-12,200,OK,Thread Group 1-1,text,true,,923,1165,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocklanguages/blocklanguages.css,35,0,0
+1632128397169,38,/ru/order?multi-shipping=-683-13,200,OK,Thread Group 1-1,text,true,,867,1161,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockcontact/blockcontact.css,38,0,0
+1632128397169,38,/ru/order?multi-shipping=-683-14,200,OK,Thread Group 1-1,text,true,,1164,1167,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocknewsletter/blocknewsletter.css,38,0,0
+1632128397170,35,/ru/order?multi-shipping=-683-15,200,OK,Thread Group 1-1,text,true,,804,1149,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/autocomplete/jquery.autocomplete.css,35,0,0
+1632128397171,47,/ru/order?multi-shipping=-683-16,200,OK,Thread Group 1-1,text,true,,2861,1141,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/product_list.css,47,0,0
+1632128397197,35,/ru/order?multi-shipping=-683-17,200,OK,Thread Group 1-1,text,true,,914,1159,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocksearch/blocksearch.css,35,0,0
+1632128397198,35,/ru/order?multi-shipping=-683-18,200,OK,Thread Group 1-1,text,true,,573,1155,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocktags/blocktags.css,35,0,0
+1632128397205,36,/ru/order?multi-shipping=-683-19,200,OK,Thread Group 1-1,text,true,,599,1163,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockuserinfo/blockuserinfo.css,36,0,0
+1632128397207,37,/ru/order?multi-shipping=-683-20,200,OK,Thread Group 1-1,text,true,,477,1158,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockviewed/blockviewed.css,37,0,0
+1632128397207,38,/ru/order?multi-shipping=-683-21,200,OK,Thread Group 1-1,text,true,,735,1134,1,1,http://prestashop.qatestlab.com.ua/modules/themeconfigurator/css/hooks.css,37,0,0
+1632128397219,37,/ru/order?multi-shipping=-683-22,200,OK,Thread Group 1-1,text,true,,1456,1164,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blockwishlist/blockwishlist.css,37,0,0
+1632128397233,35,/ru/order?multi-shipping=-683-23,200,OK,Thread Group 1-1,text,true,,1889,1168,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/productcomments/productcomments.css,35,0,0
+1632128397234,35,/ru/order?multi-shipping=-683-24,304,Not Modified,Thread Group 1-1,,true,,196,1159,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocktopmenu/css/blocktopmenu.css,0,0,0
+1632128397241,36,/ru/order?multi-shipping=-683-25,200,OK,Thread Group 1-1,text,true,,1736,1172,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/modules/blocktopmenu/css/superfish-modified.css,36,0,0
+1632128397244,41,/ru/order?multi-shipping=-683-26,200,OK,Thread Group 1-1,text,true,,1768,1133,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/css/cusel.css,41,0,0
+1632128397245,79,/ru/order?multi-shipping=-683-27,200,OK,Thread Group 1-1,text,true,,32436,1144,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/jquery-1.6.2.min.js,42,0,0
+1632128397257,81,/ru/order?multi-shipping=-683-28,200,OK,Thread Group 1-1,text,true,,33751,1127,1,1,http://prestashop.qatestlab.com.ua/js/jquery/jquery-1.11.0.min.js,40,0,0
+1632128397269,36,/ru/order?multi-shipping=-683-29,200,OK,Thread Group 1-1,text,true,,3431,1133,1,1,http://prestashop.qatestlab.com.ua/js/jquery/jquery-migrate-1.2.1.min.js,36,0,0
+1632128397269,37,/ru/order?multi-shipping=-683-30,200,OK,Thread Group 1-1,text,true,,1530,1130,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/jquery.easing.js,36,0,0
+1632128397278,36,/ru/order?multi-shipping=-683-31,200,OK,Thread Group 1-1,text,true,,5883,1107,1,1,http://prestashop.qatestlab.com.ua/js/tools.js,36,0,0
+1632128397286,37,/ru/order?multi-shipping=-683-32,200,OK,Thread Group 1-1,text,true,,4315,1133,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/global.js,37,0,0
+1632128397306,40,/ru/order?multi-shipping=-683-33,200,OK,Thread Group 1-1,text,true,,7594,1152,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/autoload/10-bootstrap.min.js,40,0,0
+1632128397307,39,/ru/order?multi-shipping=-683-34,200,OK,Thread Group 1-1,text,true,,1400,1162,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/autoload/15-jquery.total-storage.min.js,39,0,0
+1632128397314,37,/ru/order?multi-shipping=-683-35,200,OK,Thread Group 1-1,text,true,,8236,1162,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/autoload/15-jquery.uniform-modified.js,37,0,0
+1632128397323,38,/ru/order?multi-shipping=-683-36,200,OK,Thread Group 1-1,text,true,,9002,1141,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/fancybox/jquery.fancybox.js,38,0,0
+1632128397324,37,/ru/order?multi-shipping=-683-37,200,OK,Thread Group 1-1,text,true,,2016,1146,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/products-comparison.js,37,0,0
+1632128397339,47,/ru/order?multi-shipping=-683-38,200,OK,Thread Group 1-1,text,true,,8025,1154,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blockcart/ajax-cart.js,46,0,0
+1632128397347,38,/ru/order?multi-shipping=-683-39,200,OK,Thread Group 1-1,text,true,,1675,1131,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/jquery.scrollTo.js,38,0,0
+1632128397347,38,/ru/order?multi-shipping=-683-40,200,OK,Thread Group 1-1,text,true,,1412,1135,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/jquery.serialScroll.js,38,0,0
+1632128397351,45,/ru/order?multi-shipping=-683-41,200,OK,Thread Group 1-1,text,true,,5492,1141,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/bxslider/jquery.bxslider.js,45,0,0
+1632128397362,38,/ru/order?multi-shipping=-683-42,200,OK,Thread Group 1-1,text,true,,1495,1146,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/tools/treeManagement.js,38,0,0
+1632128397362,38,/ru/order?multi-shipping=-683-43,200,OK,Thread Group 1-1,text,true,,1206,1165,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blocknewsletter/blocknewsletter.js,38,0,0
+1632128397386,35,/ru/order?multi-shipping=-683-44,200,OK,Thread Group 1-1,text,true,,6828,1149,1,1,http://prestashop.qatestlab.com.ua/js/jquery/plugins/autocomplete/jquery.autocomplete.js,35,0,0
+1632128397385,37,/ru/order?multi-shipping=-683-45,200,OK,Thread Group 1-1,text,true,,1868,1157,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blocksearch/blocksearch.js,37,0,0
+1632128397386,35,/ru/order?multi-shipping=-683-46,200,OK,Thread Group 1-1,text,true,,2904,1165,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blockwishlist/js/ajax-wishlist.js,35,0,0
+1632128397397,35,/ru/order?multi-shipping=-683-47,200,OK,Thread Group 1-1,text,true,,1981,1162,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blocktopmenu/js/hoverIntent.js,35,0,0
+1632128397401,36,/ru/order?multi-shipping=-683-48,200,OK,Thread Group 1-1,text,true,,2661,1169,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blocktopmenu/js/superfish-modified.js,36,0,0
+1632128397401,36,/ru/order?multi-shipping=-683-49,200,OK,Thread Group 1-1,text,true,,1860,1162,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/modules/blocktopmenu/js/blocktopmenu.js,36,0,0
+1632128397421,39,/ru/order?multi-shipping=-683-50,200,OK,Thread Group 1-1,text,true,,4750,1132,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/cusel.js,39,0,0
+1632128397422,39,/ru/order?multi-shipping=-683-51,200,OK,Thread Group 1-1,text,true,,4593,1138,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/jScrollPane.js,39,0,0
+1632128397422,38,/ru/order?multi-shipping=-683-52,200,OK,Thread Group 1-1,text,true,,1337,1143,1,1,http://prestashop.qatestlab.com.ua/themes/default-bootstrap/js/jquery.mousewheel.js,38,0,0
+1632128397433,35,/ru/order?multi-shipping=-683-53,304,Not Modified,Thread Group 1-1,,true,,198,1125,1,1,http://prestashop.qatestlab.com.ua/modules/blockbanner/img/sale70.png,0,0,0
+1632128397438,36,/ru/order?multi-shipping=-683-54,304,Not Modified,Thread Group 1-1,,true,,198,1103,1,1,http://prestashop.qatestlab.com.ua/img/logo.jpg,0,0,0
+1632128397438,36,/ru/order?multi-shipping=-683-55,304,Not Modified,Thread Group 1-1,,true,,198,1110,1,1,http://prestashop.qatestlab.com.ua/img/c/3-0_thumb.jpg,0,0,0
+1632128397461,35,/ru/order?multi-shipping=-683-56,304,Not Modified,Thread Group 1-1,,true,,198,1110,1,1,http://prestashop.qatestlab.com.ua/img/c/3-1_thumb.jpg,0,0,0
+1632128395453,2036,order_page,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-1,,true,,935556,256184,1,1,null,411,8,0
